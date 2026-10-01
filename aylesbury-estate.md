@@ -1,4 +1,5 @@
 ---
+title: Aylesbury estate
 name: Aylesbury estate redevelopment
 image: /assets/images/aylesburydrone.jpg
 thumb: /assets/images/aylesburydronethumb.jpg

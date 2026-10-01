@@ -6,7 +6,6 @@ description: Former Council leaders and councillors are now working for develope
 layout: page
 ---
 
-## Peter John
 Former Labour Council leader Peter John lead the Council from 2010 to 2020 and is a [property lawyer](https://fivepaper.com/profiles/peter-john/) by trade. In 2012, he [signed](https://www.london-se1.co.uk/news/view/4712) the [controversial](/heygatepages/agreementsigned.html) Heygate redevelopment agreement with developer Lend Lease and other major redevelopment schemes involving the sale of public land like [Canada Water](/canada-water).
 
 <figure>

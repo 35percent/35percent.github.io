@@ -5,7 +5,6 @@ title: Action on Southwark's empty homes
 description: "Day of action to highlight borough's estimated 2,300 empty homes"
 image: /assets/images/emptyaction.jpg
 ---
-## Manor Place Depot photoshoot
 
 [Manor Place Depot](https://www.nhgsales.com/sales-developments/manor-place-depot/) will be one of one of the next sites for a nationwide [Day of Action on Empty Homes on Sat 17 April 2021](https://www.actiononemptyhomes.org/day-of-action). When we last looked (10 April 2021) at least 14 homes stood empty on a single street within that development.  There will a Photoshoot and livestream 11am to 11:30am - click here [to find out more and join event](https://www.facebook.com/events/603755493915647/).
 

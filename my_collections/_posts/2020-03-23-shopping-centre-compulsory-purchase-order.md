@@ -5,7 +5,9 @@ description: "Southwark bails out Delancey by purchasing E&C shopping centre and
 date: 2020-03-23
 image: /assets/images/elephant_castle.jpg
 ---
-In an extraordinary move Southwark Council is poised to 'buy' both the Elephant and Castle shopping centre and the London College of Communication from current owners, developer Delancey and the University of the Arts London (UAL).  It is also excercising Compulsory Purchase Order (CPO) powers over the shopping centre site, on behalf of Delancey's [British Virgin Islands registered offshore subsidiary](https://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/)[^1].
+In an extraordinary move Southwark Council is poised to 'buy' both the Elephant and Castle shopping centre and the London College of Communication from current owners, developer Delancey and the University of the Arts London (UAL).
+
+It is also excercising Compulsory Purchase Order (CPO) powers over the shopping centre site, on behalf of Delancey's [British Virgin Islands registered offshore subsidiary](https://35percent.org/2014-05-05-manx-connections-the-off-shore-home-of-the-elephants-developers/)[^1].
 
 ![](https://35percent.org/images/elephant_castle.jpg)
 
