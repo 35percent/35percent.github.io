@@ -13,19 +13,23 @@ Berkeley pre-empted Southwark's refusal of their Aylesham Centre proposals, by a
 
 All three applications entailed big reductions in affordable housing, either by way of a s73 variation of an existing planning permission (Borough Triangle), by securing a whole new planning permission (Bermondsey Place) or by amending the planning application before it had been determined (Aylesham Centre).  Had all three revisions succeeded it would have reduced the number of affordable homes from XXXXX  to YYYYY.  The number of social rented homes would have been reduced by ZZZZZ to WWWWWW.
 
-The reasons for refusal in each case have been different.  The Aylesham Centre was refused by the Inpector because of heritage harm, though Southwark's planning committee added......Borough Triangle was refused on the grounds that.........
-Bermondsey Place was refused because of.....
+TABLE 
 
-In every case affordable housing was a major point of contention.  The Aylesham Inspector was satisfied that the 12% affordable housing offer was the maximum reasonable.  Southwark Council's three decisions, though, all cite the low level of affordable housing a reason for refusing the applications [REFS].
+The reasons for refusal have been different in each case.  The Aylesham Centre was refused by the Inpector because of heritage harm, though Southwark's planning committee added......Borough Triangle was refused on the grounds that.........
+Bermondsey Place was refused because of......  Both Aylesham and Borough Triangle was presented to the committee by coucil officers with a recommendation to refuse, whilst Bermondsey Place was recommomended fro approvel.
 
-Berkeley's arguments for all three sites were broadly the same - that economic circumstances, including rising build and finance costs, slow sales and new regulatory requirements had rendered their schemes unviable and unable to support the 35% affordable housing required by the Southwark Plan (London Plan?).  Their no-nonsense conclusion (in each case?) was that all three schemes were so unviable that they could not deliver <ins>any</ins> 
+Affordable housing was a major point of contention on all three schemes.  The Aylesham Inspector was satisfied that the 12% affordable housing offer was the maximum reasonable.  Southwark Council's three decisions, though, all cite the low level of affordable housing a reason for refusing the applications [REFS].
 
+Berkeley's arguments for all three sites were broadly the same - that economic circumstances, including rising build and finance costs, slow sales and new regulatory requirements had rendered their schemes unviable and unable to support the 35% affordable housing required by the Southwark Plan (London Plan?).  Their no-nonsense conclusion (in each case?) was that all three schemes were so unviable that they could not deliver <ins>any</ins> affordable housing (a conclusion the both Southwark's own viability advisors and the GLA agreed with).  Berkeley nonetheless proposed to deliver 1O% affordable housing
 
+Berkeley have continued in much the same unaplogetic vein after the decsions, referring to their rejections whole experience with the schemes as a 'ten year nightmare'.  Their supporters and apologists are also indignant 
 
 
 Need verses Viability (profit)
 
+As we note above Southwark's advisors agree with Berkeley that all the schemes were unviable, so on the face of it the case for reductions in affordable housing appears to be incontestable.  But as the evidence presented at the Aylesham inquiry by Aylesham Community Action showed [LINK] viability assessments are not straightfoward.  They depend upon many contested assumptions and their conclusions  
 
+Berekely representatives adopted a more conciliatory tone in the committee
 
 
 
