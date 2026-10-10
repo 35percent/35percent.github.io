@@ -22,14 +22,17 @@ Affordable housing was a major point of contention on all three schemes.  The Ay
 
 Berkeley's arguments for all three sites were broadly the same - that economic circumstances, including rising build and finance costs, slow sales and new regulatory requirements had rendered their schemes unviable and unable to support the 35% affordable housing required by the Southwark Plan (London Plan?).  Their no-nonsense conclusion (in each case?) was that all three schemes were so unviable that they could not deliver <ins>any</ins> affordable housing (a conclusion the both Southwark's own viability advisors and the GLA agreed with).  Berkeley nonetheless proposed to deliver 1O% affordable housing
 
-Berkeley have continued in much the same unaplogetic vein after the decsions, referring to their rejections whole experience with the schemes as a 'ten year nightmare'.  Their supporters and apologists are also indignant 
-
+Berkeley have continued in much the same unaplogetic vein after the decisions, referring to their rejections whole experience with the schemes as a 'ten year nightmare'.  Their supporters and apologists are also indignant ...with one of their angrier apologists roundly disparaging the planning committee and denouncing objectors as 'vested interests' and 'ideologues', who have 'captured' the planning system.  This slightly deranged perspective has no room to consider that maybe the sheer breadth of opposition to one or all of these schemes, ranging from assorted local groups to the local MP
 
 Need verses Viability (profit)
 
-As we note above Southwark's advisors agree with Berkeley that all the schemes were unviable, so on the face of it the case for reductions in affordable housing appears to be incontestable.  But as the evidence presented at the Aylesham inquiry by Aylesham Community Action showed [LINK] viability assessments are not straightfoward.  They depend upon many contested assumptions and their conclusions  
+As we note above Southwark's advisors agree with Berkeley that all the schemes were unviable, so on the face of it the case for reductions in affordable housing appears to be incontestable.  But as the evidence presented at the Aylesham inquiry by Aylesham Community Action showed [LINK] viability assessments are not straightfoward.  They depend upon many contested assumptions and their conclusions
 
-Berekely representatives adopted a more conciliatory tone in the committee
+### Bermondsey Place Phase 2 & 3 
+
+
+
+Berekely representatives adopted a more conciliatory tone in the Bermondsey Place committee meeting, saying that they would do their best to reach 20% across the whole site
 
 
 
