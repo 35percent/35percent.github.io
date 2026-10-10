@@ -11,7 +11,7 @@ The Mayor's approval of BL's s73 application, including the reduction in afforda
 
 ![canada water image](/assets/images/canadawaterregeneration.png)
 
-The report surprisingly begins its conclusion by saying that '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission'*, despite the big cuts to affordable housing, and the large increases in floorspace, height and density **[^10].**
+The   report surprisingly begins its conclusion by saying that '*The changes are not considered to result in a development that would be substantially different in nature or scale to the original permission'*, despite the big cuts to affordable housing, and the large increases in floorspace, height and density **[^10].**
 
 The report then notes that the Mayor must judge the application against the development plan and *'material considerations'.*  This places housing alongside all other aspects of the development in the planning balance*,* without any priority and without giving housing any exceptional weight **[^11].**  
 
