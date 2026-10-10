@@ -18,7 +18,7 @@ Bermondsey Place was refused because of.....
 
 In every case affordable housing was a major point of contention.  The Aylesham Inspector was satisfied that the 12% affordable housing offer was the maximum reasonable.  Southwark Council's three decisions, though, all cite the low level of affordable housing a reason for refusing the applications [REFS].
 
-Berkeley's arguments for all three sites were broadly the same - that economic circumstances, including rising build and finance costs, slow sales and new regulatory requirements had rendered their schemes unviable and unable to support the 35% affordable housing required by the Southwark Plan (London Plan?).  Their no-nonsense conclusion (in each case?) was that all three schemes were so unviable that they could not deliver <any> </any>  because 
+Berkeley's arguments for all three sites were broadly the same - that economic circumstances, including rising build and finance costs, slow sales and new regulatory requirements had rendered their schemes unviable and unable to support the 35% affordable housing required by the Southwark Plan (London Plan?).  Their no-nonsense conclusion (in each case?) was that all three schemes were so unviable that they could not deliver <any>underlined<  because 
 
 
 
