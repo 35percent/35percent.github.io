@@ -56,12 +56,14 @@ Meantime the very large number of current Aylesbury residents, estimated to be 1
 
 In short, in terms of social rented housing, cost to the borough and living conditions on the Aylesbury, NHG's *'proud'* partnership with Southwark Council is doing more harm than good; the Council must take steps to end it, as part of a serious reconsideration of the whole Aylesbury regeneration.
 
+---
+
 __Footnotes:__
 
-[^1] [](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf)555 new build lets in 2024/2025 [Southwark Council's Homelessness and Rough Sleeping Strategy 2025-2030](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf) pg 9
+[^1]: [](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf)555 new build lets in 2024/2025 [Southwark Council's Homelessness and Rough Sleeping Strategy 2025-2030](https://moderngov.southwark.gov.uk/documents/s127372/Appendix%203%20Homelessness%20and%20Rough%20Sleeping%20Strategy%202025-2030.pdf) pg 9
 
-[^2] The Aylesbury estate was awarded New Deal for Communities (NDC) status, with the expectation of government funding for a comprehensive demolition/redevelopment programme, in 1999.
+[^2]: The Aylesbury estate was awarded New Deal for Communities (NDC) status, with the expectation of government funding for a comprehensive demolition/redevelopment programme, in 1999.
 
-[^3] Although marked as 'DRAFT' the link is to the report as approved by Southwark Council's Cabinet on [17 June 2025](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=8214&Ver=4)
+[^3]: Although marked as 'DRAFT' the link is to the report as approved by Southwark Council's Cabinet on [17 June 2025](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=8214&Ver=4)
 
-[^4] See also John Harris ['A waiting list of thousands and just five new homes for social rent...'](https://www.theguardian.com/commentisfree/2025/oct/19/britain-housing-crisis-social-rent-liverpool) Guardian 19 Oct 2025
+[^4]: See also John Harris ['A waiting list of thousands and just five new homes for social rent...'](https://www.theguardian.com/commentisfree/2025/oct/19/britain-housing-crisis-social-rent-liverpool) Guardian 19 Oct 2025
