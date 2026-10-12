@@ -11,8 +11,6 @@ xx Oct 2026
 
 <img width="931" height="183" alt="Aylesham_Centre_Borough_Triangle_Bermondsey_Place_composite_121026" src="https://github.com/user-attachments/assets/8bc70a4c-93f4-40cb-a622-1cd3096f3954" />
 
-
-
 Southwark Council unanimously rejected developer Berkeley's proposals for the development of Bermondsey Place Phases 2 and 3, at its planning committtee meeting on 6 October.  This follows Berkeley's failure to gain approval for its proposals for the Borough Triangle, at the [beginning of September](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=650&MId=8449&Ver=4) and the Aylesham Centre, [in July 2025](https://35percent.org/2025/07/16/aylesham-centre-planning-application-rejected.html).
 
 All three applications entailed big reductions in affordable housing, either by way of a s73 variation of an existing planning permission (Borough Triangle), by securing a whole new planning permission (Bermondsey Place) or by amending the planning application before it had been determined (Aylesham Centre).  Had all three revisions succeeded it would have reduced the number of affordable homes from 951 to 304 - a loss of 647 affordable homes.  The number of social rented homes would have been reduced by ZZZZZ to WWWWWW.
@@ -21,7 +19,9 @@ All three applications entailed big reductions in affordable housing, either by 
 
 Berkeley [lost a pre-emptive appeal](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html)to secure permission for the Aylesham Centre from the Secretary of State for Housing, Communities and Local Governement. The final outcome of a further appeal to the High Court is still awaited.  As yet there is no information as to whether Berkeley will appeal against the Borough Triangle decision.
 
-The reasons for Southwark refusal's have been different in each case.  The Aylesham Centre was refused by the Inpector because of heritage harm, though Southwark's planning committee added......Borough Triangle was refused on the grounds that.........
+The reasons for the three applications refusal have been different in each case.  The Aylesham Centre was [refused by Southwark](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development.  The Inspector, by contrast, was satisfied with the retail provision and affordable housing, but agreed with Southwark about the heritage harm, describing various parts of the design as **'monolithic and unrelenting'**, 'overly domineering', 'harmful' visually and having an 'unduly forceful presence'.
+
+did not outweigh other benefits of the development because of heritage harm, though Southwark's planning committee added......Borough Triangle was refused on the grounds that.........
 Bermondsey Place was refused because of......  Both Aylesham and Borough Triangle was presented to the committee by coucil officers with a recommendation to refuse, whilst Bermondsey Place was recommomended fro approvel.
 
 Whiles the reasons for refusal were different affordable housing was a major bone of contention on all three schemes.  The Aylesham Inspector was satisfied that the 12% affordable housing offer was the maximum reasonable.  Southwark Council's three decisions, though, all cite the low level of affordable housing a reason for refusing the applications [REFS].
