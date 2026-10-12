@@ -5,7 +5,7 @@ description: Southwark rejects three Berkeley schemes
 date: 2026-10-10
 ---
 
-### Third Berkeley scheme rejected
+### Southwark rejects a third Berkeley scheme 
 
 xx Oct 2026
 
