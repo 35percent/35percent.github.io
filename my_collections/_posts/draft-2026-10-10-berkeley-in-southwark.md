@@ -13,18 +13,20 @@ All three applications entailed big reductions in affordable housing, either by 
 
 TABLE
 
-Berkeley lost a pre-emptive appeal to secure permission for the Aylesham Centre from the Secretary of State for Housing, Communities and Local Governement. The final outcome of a further appeal to the High Court is still awaited.(https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html).  As yet there is no information as to whether Berkeley will appeal against the Borough Triangle decision.
+Berkeley [lost a pre-emptive appeal](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html)to secure permission for the Aylesham Centre from the Secretary of State for Housing, Communities and Local Governement. The final outcome of a further appeal to the High Court is still awaited.  As yet there is no information as to whether Berkeley will appeal against the Borough Triangle decision.
 
 The reasons for Southwark refusal's have been different in each case.  The Aylesham Centre was refused by the Inpector because of heritage harm, though Southwark's planning committee added......Borough Triangle was refused on the grounds that.........
 Bermondsey Place was refused because of......  Both Aylesham and Borough Triangle was presented to the committee by coucil officers with a recommendation to refuse, whilst Bermondsey Place was recommomended fro approvel.
 
-Affordable housing was a major point of contention on all three schemes.  The Aylesham Inspector was satisfied that the 12% affordable housing offer was the maximum reasonable.  Southwark Council's three decisions, though, all cite the low level of affordable housing a reason for refusing the applications [REFS].
+Whiles the reasons for refusal were different affordable housing was a major bone of contention on all three schemes.  The Aylesham Inspector was satisfied that the 12% affordable housing offer was the maximum reasonable.  Southwark Council's three decisions, though, all cite the low level of affordable housing a reason for refusing the applications [REFS].
 
 Berkeley's arguments for all three sites were broadly the same - that economic circumstances, including rising build and finance costs, slow sales and new regulatory requirements had rendered their schemes unviable and unable to support the 35% affordable housing required by the Southwark Plan (London Plan?).  Their no-nonsense conclusion (in each case?) was that all three schemes were so unviable that they could not deliver <ins>any</ins> affordable housing (a conclusion the both Southwark's own viability advisors and the GLA agreed with).  Berkeley nonetheless proposed to deliver 1O% affordable housing
 
 ### What we say....
 
-Berkeley has been positively aggrieved by their rejections, calling their whole experience a 'ten year nightmare'.  Their supporters and apologists are also indignant [REF]...with one of their angrier apologists roundly disparaging the planning committee and denouncing objectors as 'vested interests' and 'ideologues', who have 'captured' the planning system.  This slightly deranged perspective takes no account the breadth of opposition provoked by these schemes, ranging from residents and traders, assorted community groups, councillors (from most parties), local party leaders, the London Assembly member and the Aylesham's local MP.  That Berkeleys are responsible for their own failures by, first proposing, in all three sites, giant schemes that are going to dominate their local neighbourhoods, and then slashing the affordable housing to the bone on giant schemes that are going to dominate their local neighbourhoods just does not cross Berkeleys or any of their friends' minds; much easier to paint opponents as bad-faith actors, taking advantage of a broken planning system.
+
+
+Berkeley has been positively aggrieved by their rejections, calling their whole experience a 'ten year nightmare'.  Their supporters are also indignant [REF]...with one of their angrier apologists roundly disparaging the planning committee and denouncing objectors as 'vested interests' and 'ideologues', who have 'captured' the planning system.  This slightly deranged perspective takes no account the breadth of opposition provoked by these schemes, ranging from residents and traders, assorted community groups, councillors (from most parties), local party leaders, the London Assembly member and the Aylesham's local MP.  That Berkeleys are responsible for their own failures by, first proposing, in all three sites, giant schemes that are going to dominate their local neighbourhoods, and then slashing the affordable housing to the bone on giant schemes that are going to dominate their local neighbourhoods just does not cross Berkeleys or any of their friends' minds; much easier to paint opponents as bad-faith actors, taking advantage of a broken planning system.
 
 Berkeley's also assert that, far from representing a loss, their meagre affordable housing offers are in fact a great benefit, all the greater when compared to Southwark's 23,000 household waiting list, reasoning that the smaller the affordable housing offer, relative to the size of need, the more valuable it is.  Objectors, by contrast, would be denying those in need, by insisting on higher levels of affordable housing that will never get built.
 
@@ -48,6 +50,8 @@ Berekely representatives adopted a more conciliatory tone in the Bermondsey Plac
 
 
 [^1], 
+
+
 
 
 This is a link [275372_1 Officer's Report.pdf](https://github.com/user-attachments/files/33281319/275372_1.Officer.s.Report.pdf)
