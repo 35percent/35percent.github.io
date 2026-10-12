@@ -9,9 +9,8 @@ date: 2026-10-10
 
 Southwark Council unanimously rejected developer Berkeley's proposals for the development of Bermondsey Place Phases 2 and 3, at its planning committtee meeting on 6 October.  This follows Berkeley's failure to gain approval for its proposals for the Borough Triangle, at the [beginning of September](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=650&MId=8449&Ver=4) and the Aylesham Centre, [in July 2025](https://35percent.org/2025/07/16/aylesham-centre-planning-application-rejected.html).
 
-All three applications entailed big reductions in affordable housing, either by way of a s73 variation of an existing planning permission (Borough Triangle), by securing a whole new planning permission (Bermondsey Place) or by amending the planning application before it had been determined (Aylesham Centre).  Had all three revisions succeeded it would have reduced the number of affordable homes from XXXXX  to YYYYY.  The number of social rented homes would have been reduced by ZZZZZ to WWWWWW.
+All three applications entailed big reductions in affordable housing, either by way of a s73 variation of an existing planning permission (Borough Triangle), by securing a whole new planning permission (Bermondsey Place) or by amending the planning application before it had been determined (Aylesham Centre).  Had all three revisions succeeded it would have reduced the number of affordable homes from 951 to 304 - a loss of 647 affordable homes.  The number of social rented homes would have been reduced by ZZZZZ to WWWWWW.
 
-<img width="657" height="362" alt="Table_affordable_housing_losses_121026" src="https://github.com/user-attachments/assets/24e94c1b-51c1-4cc1-a386-b2f29fdc6eda" />
 
 
 Berkeley [lost a pre-emptive appeal](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html)to secure permission for the Aylesham Centre from the Secretary of State for Housing, Communities and Local Governement. The final outcome of a further appeal to the High Court is still awaited.  As yet there is no information as to whether Berkeley will appeal against the Borough Triangle decision.
