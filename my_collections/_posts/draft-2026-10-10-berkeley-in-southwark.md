@@ -11,7 +11,7 @@ Southwark Council unanimously rejected developer Berkeley's proposals for the de
 
 All three applications entailed big reductions in affordable housing, either by way of a s73 variation of an existing planning permission (Borough Triangle), by securing a whole new planning permission (Bermondsey Place) or by amending the planning application before it had been determined (Aylesham Centre).  Had all three revisions succeeded it would have reduced the number of affordable homes from 951 to 304 - a loss of 647 affordable homes.  The number of social rented homes would have been reduced by ZZZZZ to WWWWWW.
 
-
+<img width="681" height="369" alt="Table_affordable_housing_losses_121026" src="https://github.com/user-attachments/assets/eb26129b-95c3-42a4-8b02-fcbe162e8e15" />
 
 Berkeley [lost a pre-emptive appeal](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html)to secure permission for the Aylesham Centre from the Secretary of State for Housing, Communities and Local Governement. The final outcome of a further appeal to the High Court is still awaited.  As yet there is no information as to whether Berkeley will appeal against the Borough Triangle decision.
 
