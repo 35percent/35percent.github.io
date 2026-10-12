@@ -1,4 +1,4 @@
----
+  ---
 layout: post
 title: Berkeley Homes
 description: Southwark rejects three Berkeley schemes
@@ -19,12 +19,15 @@ All three applications entailed big reductions in affordable housing, either by 
 
 Berkeley [lost a pre-emptive appeal](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html) to secure permission for the Aylesham Centre from the Secretary of State for Housing, Communities and Local Governement. The final outcome of a further appeal to the High Court is still awaited.  As yet there is no information as to whether Berkeley will appeal against the Borough Triangle decision.
 
-The reasons for the three applications refusal have been different in each case.  The Aylesham Centre was [refused by Southwark](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development.  The Inspector, by contrast, was satisfied with the retail provision and affordable housing, but agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.  The Inspector emphasises how heavily poor design weighed in the balance of his decision-making by concluding that he would have reached the same decision and rejected the application even if the dvelopment had provided 35% affordable housing[^1]
+The reasons for the three applications refusal have been different in each case.  The Aylesham Centre was [refused by Southwark](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development.  The Inspector, by contrast, was satisfied with the retail provision and 12% affordable housing, after taking into consideration the viability of the scheme. But he agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.  The Inspector emphasises how heavily poor design weighed in the balance of his decision-making by concluding that he would have reached the same decision and rejected the application even if the development had provided 35% affordable housing[^1]  
 
-Borough Triangle was refused by the planning committee   on the grounds that.........
+The minutes of the Borough Triangle committee meeting, including the reasons for refusal, have not been published yet, but the officer report recommended refusing the application because the 10% affordable housing offer failed to provide enough public benefit to outweigh the heritage harm to Trinity Church Square Conservation Area, owing to *'the height, scale and massing'* of the two tallest blocks (one 38 storeys, the other 44 storeys).   
+
+
+.  by the planning committee on the grounds that.........
 Bermondsey Place was refused because of......  Both Aylesham and Borough Triangle was presented to the committee by council officers with a recommendation to refuse, whilst Bermondsey Place was recommomended fro approvel.
 
-Whiles the reasons for refusal were different affordable housing was a major bone of contention on all three schemes.  The Aylesham Inspector was satisfied that the 12% affordable housing offer was the maximum reasonable.  Southwark Council's three decisions, though, all cite the low level of affordable housing a reason for refusing the applications [REFS].
+While the reasons for refusal were different affordable housing was a major bone of contention on all three schemes.  The Aylesham Inspector was satisfied that the 12% affordable housing offer was the maximum reasonable.  Southwark Council's three decisions, though, all cite the low level of affordable housing a reason for refusing the applications [REFS].
 
 Berkeley's arguments for all three sites were broadly the same - that economic circumstances, including rising build and finance costs, slow sales and new regulatory requirements had rendered their schemes unviable and unable to support the 35% affordable housing required by the Southwark Plan (London Plan?).  Their no-nonsense conclusion (in each case?) was that all three schemes were so unviable that they could not deliver <ins>any</ins> affordable housing (a conclusion the both Southwark's own viability advisors and the GLA agreed with).  Berkeley nonetheless proposed to deliver 1O% affordable housing
 
