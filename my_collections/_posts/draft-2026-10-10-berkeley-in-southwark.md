@@ -21,8 +21,8 @@ Berkeley [lost a pre-emptive appeal](https://35percent.org/2026/06/08/aylesham-c
 
 The reasons for the three applications refusal have been different in each case.  The Aylesham Centre was [refused by Southwark](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development.  The Inspector, by contrast, was satisfied with the retail provision and affordable housing, but agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.  The Inspector emphasises how heavily poor design weighed in the balance of his decision-making by concluding that he would have reached the same decision and rejected the application even if the dvelopment had provided 35% affordable housing[^1]
 
-did not outweigh other benefits of the development because of heritage harm, though Southwark's planning committee added......Borough Triangle was refused on the grounds that.........
-Bermondsey Place was refused because of......  Both Aylesham and Borough Triangle was presented to the committee by coucil officers with a recommendation to refuse, whilst Bermondsey Place was recommomended fro approvel.
+Borough Triangle was refused by the planning committee   on the grounds that.........
+Bermondsey Place was refused because of......  Both Aylesham and Borough Triangle was presented to the committee by council officers with a recommendation to refuse, whilst Bermondsey Place was recommomended fro approvel.
 
 Whiles the reasons for refusal were different affordable housing was a major bone of contention on all three schemes.  The Aylesham Inspector was satisfied that the 12% affordable housing offer was the maximum reasonable.  Southwark Council's three decisions, though, all cite the low level of affordable housing a reason for refusing the applications [REFS].
 
@@ -30,7 +30,7 @@ Berkeley's arguments for all three sites were broadly the same - that economic c
 
 ### What we say....
 
-
+Berkeley's cries 'foul'
 
 Berkeley has been positively aggrieved by their rejections, calling their whole experience a 'ten year nightmare'.  Their supporters are also indignant [REF]...with one of their angrier apologists roundly disparaging the planning committee and denouncing objectors as 'vested interests' and 'ideologues', who have 'captured' the planning system.  This slightly deranged perspective takes no account the breadth of opposition provoked by these schemes, ranging from residents and traders, assorted community groups, councillors (from most parties), local party leaders, the London Assembly member and the Aylesham's local MP.  That Berkeleys are responsible for their own failures by, first proposing, in all three sites, giant schemes that are going to dominate their local neighbourhoods, and then slashing the affordable housing to the bone on giant schemes that are going to dominate their local neighbourhoods just does not cross Berkeleys or any of their friends' minds; much easier to paint opponents as bad-faith actors, taking advantage of a broken planning system.
 
