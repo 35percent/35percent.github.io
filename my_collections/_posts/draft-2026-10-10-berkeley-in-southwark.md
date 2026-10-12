@@ -7,7 +7,7 @@ date: 2026-10-10
 
 ### Third Berkeley scheme rejected
 
-![Uploading Aylesham_Centre_Borough_Triangle_Bermondsey_Place_composite_121026.png…]()
+
 
 
 Southwark Council unanimously rejected developer Berkeley's proposals for the development of Bermondsey Place Phases 2 and 3, at its planning committtee meeting on 6 October.  This follows Berkeley's failure to gain approval for its proposals for the Borough Triangle, at the [beginning of September](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=650&MId=8449&Ver=4) and the Aylesham Centre, [in July 2025](https://35percent.org/2025/07/16/aylesham-centre-planning-application-rejected.html).
