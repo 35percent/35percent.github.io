@@ -11,7 +11,7 @@ xx Oct 2026
 
 <img width="931" height="183" alt="Aylesham_Centre_Borough_Triangle_Bermondsey_Place_composite_121026" src="https://github.com/user-attachments/assets/8bc70a4c-93f4-40cb-a622-1cd3096f3954" />
 
-Southwark Council unanimously rejected developer Berkeley's proposals for the development of Bermondsey Place Phases 2 and 3, at its planning committtee meeting on 6 October.  This follows Berkeley's failure to gain approval for its proposals for the Borough Triangle, at the [beginning of September](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=650&MId=8449&Ver=4) and the Aylesham Centre, [in July 2025](https://35percent.org/2025/07/16/aylesham-centre-planning-application-rejected.html).
+Southwark Council unanimously rejected developer Berkeley's proposals for the development of Bermondsey Place Phases 2 and 3, at its planning committee meeting on 6 October.  This follows Berkeley's failure to gain approval for its proposals for the Borough Triangle, at the [beginning of September](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=650&MId=8449&Ver=4) and the Aylesham Centre, [in July 2025](https://35percent.org/2025/07/16/aylesham-centre-planning-application-rejected.html).
 
 All three applications entailed big reductions in affordable housing, either by way of a s73 variation of an existing planning permission (Borough Triangle), by securing a whole new planning permission (Bermondsey Place) or by amending the planning application before it had been determined (Aylesham Centre).  Had all three revisions succeeded it would have reduced the number of affordable homes from 951 to 304 - a loss of 647 affordable homes.  The number of social rented homes would have been reduced by ZZZZZ to WWWWWW.
 
