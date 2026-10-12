@@ -19,7 +19,7 @@ All three applications entailed big reductions in affordable housing, either by 
 
 Berkeley [lost a pre-emptive appeal](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html)to secure permission for the Aylesham Centre from the Secretary of State for Housing, Communities and Local Governement. The final outcome of a further appeal to the High Court is still awaited.  As yet there is no information as to whether Berkeley will appeal against the Borough Triangle decision.
 
-The reasons for the three applications refusal have been different in each case.  The Aylesham Centre was [refused by Southwark](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development.  The Inspector, by contrast, was satisfied with the retail provision and affordable housing, but agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.
+The reasons for the three applications refusal have been different in each case.  The Aylesham Centre was [refused by Southwark](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development.  The Inspector, by contrast, was satisfied with the retail provision and affordable housing, but agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.  The Inspector emphasises how heavily poor design weighed in the balance of his decision-making by concluding that he would have reached the same decision and rejected the application even if the dvelopment had provided 35% affordable housing[^1]
 
 did not outweigh other benefits of the development because of heritage harm, though Southwark's planning committee added......Borough Triangle was refused on the grounds that.........
 Bermondsey Place was refused because of......  Both Aylesham and Borough Triangle was presented to the committee by coucil officers with a recommendation to refuse, whilst Bermondsey Place was recommomended fro approvel.
@@ -55,7 +55,8 @@ Berekely representatives adopted a more conciliatory tone in the Bermondsey Plac
 
 
 
-[^1], 
+[^1]: Para 110 Appeal decision, Ref: APP/A5840/W/25/3366760 Aylesham Centre, Rye Lane, London SE15 5EW, 18th May 2026
+
 
 
 
