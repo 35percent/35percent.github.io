@@ -17,19 +17,29 @@ All three applications entailed big reductions in affordable housing, either by 
 
 <img width="681" height="369" alt="Table_affordable_housing_losses_121026" src="https://github.com/user-attachments/assets/eb26129b-95c3-42a4-8b02-fcbe162e8e15" />
 
+### The three decisions
+
 Berkeley [lost a pre-emptive appeal](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html) to secure permission for the Aylesham Centre from the Secretary of State for Housing, Communities and Local Governement. The final outcome of a further appeal to the High Court is still awaited.  As yet there is no information as to whether Berkeley will appeal against the Borough Triangle decision.
 
-The reasons for the three applications refusal have been different in each case.  The Aylesham Centre was [refused by Southwark](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development.  The Inspector, by contrast, was satisfied with the retail provision and 12% affordable housing, after taking into consideration the viability of the scheme. But he agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.  The Inspector emphasises how heavily poor design weighed in the balance of his decision-making by concluding that he would have reached the same decision and rejected the application even if the development had provided 35% affordable housing[^1]  
+The reasons for the three applications refusal have been different in each case.  The Aylesham Centre was [refused by Southwark](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development.  The Inspector, by contrast, was satisfied with the retail provision and 12% affordable housing, after taking into consideration the viability of the scheme. But he agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.  The Inspector emphasises how heavily poor design weighed in the balance of his decision-making by concluding that he would have reached the same decision and rejected the application even if the development had provided 35% affordable housing[^1].  
 
 The minutes of the Borough Triangle committee meeting, including the reasons for refusal, have not been published yet, but the officer report recommended refusing the application because the 10% affordable housing offer failed to provide enough public benefit to outweigh the heritage harm to Trinity Church Square Conservation Area, owing to *'the height, scale and massing'* of the two tallest blocks (one 38 storeys, the other 44 storeys).   
 
 Unlike the Aylesham and Borough Triangle, the application for Bermondsey Place Phase 2 and 3 came with a recommendation to approve.  Also unlike the other two schemes construction has begun and Bermondsey Place Phase 1 is nearing completion and will provide 285 homes with 40% affordable housing (81 units)(footnote; BTriangle 'implemented').  Together the whole site will deliver 1,453 homes, with a further 86 affordable, making a total of 167 affordable across the whole site.  In percentage terms this would be 18% (40%, Phase 1; 12% Phase 2 and 3), but because the Phase 2 and 3 planning application is entirely new and distinct from Phase 1 only the 12% affordable housing amount can be considered by the committee [REF; OR112]
 
+The reasons for refusal, known so far, vary somewhat for each of the schemes; the Inspector, as decision-maker for the Aylesham, deemed the level of affordable housing satisfactory, but this did not outweigh the design harms, while Southwark Council, as the decision maker for the Borough Triangle and Bermondsey Place, did not consider the affordable housing satisfactory in either development affordable housing was a major bone of contention on all three schemes.  The Aylesham Inspector was satisfied that the 12% affordable housing offer was the maximum reasonable.  Southwark Council's three decisions, though, all cite the low level of affordable housing a reason for refusing the applications [REFS].
+
+### Viability and Berkeley's case
+
+Inevitably the viability of the respective schemes was critical issue for the three decisions.  Berkeley's arguments for all the sites were broadly the same - that economic circumstances, including rising build and finance costs, slow sales and new regulatory requirements had rendered their schemes unviable and unable to support the 35% affordable housing required by the Southwark Plan (London Plan?).  Their no-nonsense conclusion (in each case?) was that all three schemes were so unviable that they could not deliver <ins>any</ins> affordable housing (a conclusion the both Southwark's own viability advisors and the GLA agreed with).  Berkeley nonetheless proposed to deliver 1O% affordable housing on the Borough Triangle and 12% on the Aylesham Centre site and Bermondsey Place.
+
+The conclusions that the schemes were unviable though were challenged on several points, particularly for the Borough Triangle and Bermondsey Place schemes.  While the consensus between Berkeley's advisors (DS2), Southwark's advisors (Quintic and BPS) and the GLA (for the Mayor) was that both schemes were unviable, there was wide disagreement about the size of the viability deficit. On Borough Triangle DS2 said it was £290.7m; BPS £79.5m; the GLA said £131.2m.  
 
 
-The reasons for refusal, known so far, vary somewhat for each of the schemes; the Inspector, as decision-maker for the Aylesham, deemed the level of affordable housing satisfactory, but this did not outweigh the design harms, while Southwark Council, as the decision maker for the Borough Triangle and Bermondsey Place, did not consider the affordable housing satisfactory in either development   affordable housing was a major bone of contention on all three schemes.  The Aylesham Inspector was satisfied that the 12% affordable housing offer was the maximum reasonable.  Southwark Council's three decisions, though, all cite the low level of affordable housing a reason for refusing the applications [REFS].
 
-Berkeley's arguments for all three sites were broadly the same - that economic circumstances, including rising build and finance costs, slow sales and new regulatory requirements had rendered their schemes unviable and unable to support the 35% affordable housing required by the Southwark Plan (London Plan?).  Their no-nonsense conclusion (in each case?) was that all three schemes were so unviable that they could not deliver <ins>any</ins> affordable housing (a conclusion the both Southwark's own viability advisors and the GLA agreed with).  Berkeley nonetheless proposed to deliver 1O% affordable housing
+
+
+
 
 ### What we say....Berkeley's cries 'foul'
 
@@ -59,6 +69,10 @@ insinuate that it is the objectors who are denying the homeless and those on the
 What these three cases have brought to the fore is the Need verses Viability (profit)
 
 As we note above Southwark's advisors agree with Berkeley that all the schemes were unviable, so on the face of it the case for reductions in affordable housing appears to be incontestable.  But as the evidence presented at the Aylesham inquiry by Aylesham Community Action showed [LINK] viability assessments are not straightfoward.  They depend upon many contested assumptions and their conclusions
+
+Viability - 
+
+Far-reaching decsions that will shape the borough in many different ways flowing form the changes such huge schemes make to the areas they are built in should depend on what looks like nothing much more than educated guesswork. 
 
 ### Bermondsey Place Phase 2 & 3 
 
