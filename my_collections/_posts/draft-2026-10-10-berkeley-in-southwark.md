@@ -51,20 +51,13 @@ An alternative view is that Berkeley was generously going 'above and beyond' its
 
 This alternative view also ignores several factors.  First, it is in Berkeley's own interests to reduce affordable housing, and so immediately increase profit-bearing market housing.  Secondly, though BPS and the GLA agree the the scheme is unviable, the difference in deficits, with very large ones in two cases, shows that there can be little public confidence in the whole exercise.  There is also a significant lost opportunity cost; 93% households of households in the borough are eligible for affordable housing and 23,000 households are on the housing waiting list.  The 35% affordable housing requirement from private developments has been set to help meet these needs.  But development sites are limited and if they are given over almost entirely to market housing then obviously this will not happen.  And while it is undeniable that, say, 86 households would be housed in affordable homes in the remaining two phases of Bermondsey Place, were it to be built, more will see the prospect of an affordable home recede; not just because the other thousand or so homes will be free-market, but also because the limited amount of land available for housing across the borough will be reduced, without Bermondsey Place providing it's fair share of affordable housing.  The remaining sites,and there are few of Bermondsey Place's size, would have to provide proportionately more affordable homes if the borough's housing needs are to be met.  
 
-~~ It will only be a consolation that a small number  once one the size of the Aylesham, Borough Triangle or Bermondsey Place is built out with only a small amount of affordable housing, it is lost to any more.  The remaining sites in the borough would have to supply an even greater proportion of affordable housing if the well attested need ~~ 
+~~It will only be a consolation that a small number  once one the size of the Aylesham, Borough Triangle or Bermondsey Place is built out with only a small amount of affordable housing, it is lost to any more.  The remaining sites in the borough would have to supply an even greater proportion of affordable housing if the well attested need~~ 
 
-is that there are a limited number of sites available for development and once the division between market and affordable housing is made on a site, it is unlikely to change.  to allow three sites the size of the Berkeely's site to provisde proportionately so little affordbale housing means that the remaining sites will have to supply proportionately more if the need of teh borough for affordable housing (9 out of 10) is to be met - lost opportuniity cost.
-
-
-that there will be any increase in affordable housing; land that might have supported affordable housing will be lost for good supplants land that should host affordable housing is given over to market housing 
-
-could be interpreted as a generous offer, but an alternative, and better, explanation is simply that that  
+~~is that there are a limited number of sites available for development and once the division between market and affordable housing is made on a site, it is unlikely to change.  to allow three sites the size of the Berkeely's site to provisde proportionately so little affordbale housing means that the remaining sites will have to supply proportionately more if the need of teh borough for affordable housing (9 out of 10) is to be met - lost opportuniity cost~~.
 
 While the viability of a development invariably determines planning decisions it is acknowledged that the weight to be given to viability is a matter for whoever has to decide the application, be they the local counil or a government inspector [REF NPPF, Aylesham inspector].  It's unsurprising that objectors said that the viability assessments for these schemes should be given little weight, given the 
 
 ### What we say....Berkeley's cries 'foul'
-
-Why did it not take advantage of the emergency measures?
 
 While Berkeley has suffered three rejections it still holds two planning permissions (for the Borough Triangle and Bermondsey Place), but each requires 35% affordable housing. There is also every possibility that it would have secured planning permission for the Aylesham Centre as well, if it had kept to its initial 35% affordable housing offer.
 
@@ -97,18 +90,11 @@ Far-reaching decsions that will shape the borough in many different ways flowing
 
 ### Bermondsey Place Phase 2 & 3 
 
-
-
 Berekely representatives adopted a more conciliatory tone in the Bermondsey Place committee meeting, saying that they would do their best to reach 20% across the whole site
 
 (and then conveniently forgotten, subverted by 'commercial decisions' that set affordable housing at levels to the developers liking)
 
-
 [^1]: Para 110 Appeal decision, Ref: APP/A5840/W/25/3366760 Aylesham Centre, Rye Lane, London SE15 5EW, 18th May 2026
-
-
-
-
 
 This is a link [275372_1 Officer's Report.pdf](https://github.com/user-attachments/files/33281319/275372_1.Officer.s.Report.pdf)
 
