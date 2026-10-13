@@ -33,7 +33,7 @@ The reasons for refusal, known so far, vary somewhat for each of the schemes; th
 
 Inevitably the viability of the respective schemes was critical issue for the three decisions.  Berkeley's arguments for all the sites were broadly the same - that economic circumstances, including rising build and finance costs, slow sales and new regulatory requirements had rendered their schemes unviable and unable to support the 35% affordable housing required by the Southwark Plan (London Plan?).  Their no-nonsense conclusion (in each case?) was that all three schemes were so unviable that they could not deliver <ins>any</ins> affordable housing (a conclusion the both Southwark's own viability advisors and the GLA agreed with).  Berkeley nonetheless proposed to deliver 1O% affordable housing on the Borough Triangle and 12% on the Aylesham Centre site and Bermondsey Place.
 
-The conclusions that the schemes were unviable though were challenged on several points, particularly for the Borough Triangle and Bermondsey Place schemes.  While the consensus between Berkeley's advisors (DS2), Southwark's advisors (Quintic and BPS) and the GLA (for the Mayor) was that both schemes were unviable, there was wide disagreement about the size of the viability deficit. On Borough Triangle DS2 said it was £290.7m; BPS £79.5m; the GLA said £131.2m.  
+The conclusions that the schemes were unviable was challenged on several points, particularly in the case of Borough Triangle and Bermondsey.  While the consensus between Berkeley's advisors (DS2), Southwark's advisors (BPS and Quintic) and the GLA (for the Mayor) was that both schemes were unviable, there was wide disagreement about the size of the viability deficit. On Borough Triangle DS2 said it was £290.7m, BPS £79.5m, while the GLA said £131.2m.  On Bermondsey Place DPS said the deficit was £116.84m, Quintic £34.9m, the GLA £3.8m.  As can be seen from these figures the estimates of the deficit varied by as much as £211m for Borough Triangle and by as much as £103m for Bermondsey Place. 
 
 
 
@@ -61,7 +61,7 @@ Berkeley's also assert that, far from representing a loss, their meagre affordab
 
 The flaws in this self-serving argument are obvious.  The 81 [86?] affordable homes that Berkeley proposed for Bermondsey Place would be great if there were only 81 homes in total; but they can only be built, under Berkeley's plan, if nearly a thousand free-market homes are built as well, including around 270 that under the previous permission affordable would be affordable - these affordable homes will be lost, though Berkeley's refuse to recognise the fact.  The great opportunity that a site of this size offers to make a real dent in the borough's affordable housing need will also lost; the borough obviously has a finite amount of land and only a limited amount of this is available for housing - allowing it to be almost entirely given over to free-market housing loses the opportunity of relieving the housing crisis, with this site, for ever. 
 
-Berkeley wants to dictate terms; that is its response to the crisis in house building - to push all the costs it lists on to the soulders of teh local community, in the shape of reduced affordable housing. for It is the also developer who finally decides what gets built; not authorities (nor even local authorities).  And the justification for low levels of affordable housing can be built depends upon viability assessments that have widely varying conclusions.  Berkeley would argue that this does not matter - that it makes no difference if the deficit is £3m or a £100m, the scheme is unviable in both instances.  But this ignores the credibility problem of a method that     
+Berkeley wants to dictate terms; that is its response to the crisis in house building - to push all the costs it lists on to the shoulders of teh local community, in the shape of reduced affordable housing. for It is the also developer who finally decides what gets built; not authorities (nor even local authorities).  And the justification for low levels of affordable housing can be built depends upon viability assessments that have widely varying conclusions.  Berkeley would argue that this does not matter - that it makes no difference if the deficit is £3m or a £100m, the scheme is unviable in both instances.  But this ignores the credibility problem of a method that     
 What is really happening here is that viability assessments are used to shed affordable housing, but then discarded, Their justification for not building a scheme because 
 
 insinuate that it is the objectors who are denying the homeless and those on the housing waiting listsit  that it is they 
@@ -72,7 +72,7 @@ As we note above Southwark's advisors agree with Berkeley that all the schemes w
 
 Viability - 
 
-Far-reaching decsions that will shape the borough in many different ways flowing form the changes such huge schemes make to the areas they are built in should depend on what looks like nothing much more than educated guesswork. 
+Far-reaching decsions that will shape the borough in many different ways flowing form the changes such huge schemes make to the areas they are built in should depend on what, behind mountains of figures, and  looks like nothing much more than educated guesswork. 
 
 ### Bermondsey Place Phase 2 & 3 
 
