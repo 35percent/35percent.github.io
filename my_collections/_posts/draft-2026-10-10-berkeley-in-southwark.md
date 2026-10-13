@@ -37,11 +37,11 @@ The conclusions that the schemes were unviable was challenged on several points,
 
 <img width="773" height="272" alt="Borough_Triangle_and_Bermondsey_Place_viability_conclusions_131026" src="https://github.com/user-attachments/assets/d92c2ced-a035-4a9f-8920-8fd9ef7071e1" />
 
-Over the two latter planning applications objectors and councillors questioned the higher profit target proposed by DS2, which raises the viability threshold, and pointed out that increasing the market housing has itself some detrimental impact on viability, by increasing the length of the development programme (the more market homes there are, the longer it takes to sell them off), which in turn increases finance costs (whether the 8% finance rate was justified was also questioned, in the case of Borough Triangle).
+the two latter planning applications objectors and councillors questioned the higher profit target proposed by DS2, which raises the viability threshold, and pointed out that increasing the market housing has itself some detrimental impact on viability, by increasing the length of the development programme (the more market homes there are, the longer it takes to sell them off), which in turn increases finance costs (whether the 8% finance rate was justified was also questioned, in the case of Borough Triangle).
 
 It was also noted that Berkeley had not taken advantage of the government and Mayor's emergency measures [LINK], which could have improved viability, by a combination of grant from the Mayor, the government's proposed Community Infrastructure Levy (CIL) relief, were they willing to commit to 20% affordable housing.  (Berkeley gave a verbal  undertaking at the Bermondsey Place meeting to try to improve the affordable housing beyond 12%, through viability reviews, but this formed no part of the formal offer[REF OR112)
 
-Building on this, Southwark Law Centre suggested that a combination of grant, CiL relief and a slightly lower profit level combined could improve viability significantly and possibly enough to provide 35% affordable housing.
+Building on this, Southwark Law Centre suggested that a combination of grant, CiL relief and a slightly lower profit level combined could improve viability significantly and possibly enough to provide 35% affordable housing.  Objectors also pointed out that 35% affordable housing, not just 12%, was being provided on the BeCa development, not many yards down the Old Kent Rd from Bermondsey Place.
 
 ### What we say....Berkeley's cries 'foul'
 
