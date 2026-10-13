@@ -35,11 +35,7 @@ Inevitably the viability of the respective schemes was critical issue for the th
 
 The conclusions that the schemes were unviable was challenged on several points, particularly in the case of Borough Triangle and Bermondsey.  While the consensus between Berkeley's advisors (DS2), Southwark's advisors (BPS and Quintic) and the GLA (for the Mayor) was that both schemes were unviable, there was wide disagreement about the size of the viability deficit. On Borough Triangle DS2 said it was £290.7m, BPS £79.5m, while the GLA said £131.2m.  On Bermondsey Place DPS said the deficit was £116.84m, Quintic £34.9m, the GLA £3.8m.  As can be seen from these figures the estimates of the deficit varied by as much as £211m for Borough Triangle and by as much as £103m for Bermondsey Place. 
 
-
-
-
-
-
+<img width="773" height="272" alt="Borough_Triangle_and_Bermondsey_Place_viability_conclusions_131026" src="https://github.com/user-attachments/assets/d92c2ced-a035-4a9f-8920-8fd9ef7071e1" />
 
 ### What we say....Berkeley's cries 'foul'
 
