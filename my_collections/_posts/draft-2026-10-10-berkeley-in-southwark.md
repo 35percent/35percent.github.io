@@ -17,9 +17,9 @@ All three applications entailed big reductions in affordable housing, either by 
 
 <img width="681" height="369" alt="Table_affordable_housing_losses_121026" src="https://github.com/user-attachments/assets/eb26129b-95c3-42a4-8b02-fcbe162e8e15" />
 
-### The three decisions
+So far, Berkeley has only appealed against the Aylesham Centre decision.  This [pre-emptive appeal](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html) was lost. The outcome of a further appeal to the High Court is still awaited.  As yet there is news on whether Berkeley will appeal against the Borough Triangle and Bermondsey Place decisions.
 
-Berkeley [lost a pre-emptive appeal](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html) to secure permission for the Aylesham Centre from the Secretary of State for Housing, Communities and Local Governement. The final outcome of a further appeal to the High Court is still awaited.  As yet there is no information as to whether Berkeley will appeal against the Borough Triangle decision.
+### The three decisions
 
 The reasons for the three refusals are somewhat different in each case.  The Aylesham Centre was [refused by Southwark](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development.  The Inspector, by contrast, was satisfied with the retail provision and 12% affordable housing, after taking into consideration the viability of the scheme. But he agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.  The Inspector emphasises how heavily poor design weighed in the balance of his decision-making by concluding that he would have reached the same decision and rejected the application even if the development had provided 35% affordable housing[^1].  
 
