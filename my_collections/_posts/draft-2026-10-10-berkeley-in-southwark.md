@@ -21,13 +21,13 @@ So far, Berkeley has only appealed against the Aylesham Centre decision.  This [
 
 ### The three decisions
 
-The reasons for the three refusals are similar, but also vary each case.  The reasons for refusal, known so far, vary somewhat for each of the schemes; the Inspector, as decision-maker for the Aylesham, deemed the level of affordable housing satisfactory, but this did not outweigh the design harms, while Southwark Council, as the decision maker for the Borough Triangle and Bermondsey Place, did not consider the affordable housing satisfactory in either development affordable housing was a major bone of contention on all three schemes.  The Aylesham Inspector was satisfied that the 12% affordable housing offer was the maximum reasonable.  Southwark Council's three decisions, though, all cite the low level of affordable housing a reason for refusing the applications [REFS].
+Affordable housing was a major bone of contention on all three schemes. The Planning Inspector, as decision-maker for the Aylesham, deemed the 12% level of affordable housing satisfactory, but ruled that this did not outweigh the design harms[^1] .  On the other hand, Southwark Council, as the decision maker for the Borough Triangle and Bermondsey Place, did not consider the affordable housing satisfactory in either development.   [REFS].
 
-The Aylesham Centre was [refused by Southwark](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development.  The Appeal Inspector, by contrast, was satisfied with the retail provision and 12% affordable housing, after taking into consideration the viability of the scheme. But he agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.  The Inspector emphasises how heavily poor design weighed in the balance of his decision-making by concluding that he would still have rejected the application, even if the development had provided 35% affordable housing[^1].  
+.  The Appeal Inspector, by contrast, was satisfied with the retail provision and 12% affordable housing, after taking into consideration the viability of the scheme. But he agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.  The Inspector emphasises how heavily poor design weighed in the balance of his decision-making by concluding that he would still have rejected the application, even if the development had provided 35% affordable housing[^2].  
 
 The reasons for refusing the Borough Triangle appliction have not been published yet, but the officer report recommended refusing the application because the 10% affordable housing offer failed to provide enough public benefit to outweigh the heritage harm to Trinity Church Square Conservation Area, owing to *'the height, scale and massing'* of the two tallest blocks (one 38 storeys, the other 44 storeys).   
 
-The application for Bermondsey Place Phase 2 and 3 came with a recommendation to approve (unlike the Aylesham and Borough Triangle).  Also, the construction of 285 homes on Bermondsey Place Phase 1 is nearly finished. This will include 81 affordable homes, with all three phases delivering 1,453 homes, including 167 affordable homes.  In percentage terms, Phase 1 will have 40% affordable housing.  Phases 2 and 3, 12%, making for 18% affordable housing across the whole site 40%[^2], 
+The application for Bermondsey Place Phase 2 and 3 came with a recommendation to approve (unlike the Aylesham and Borough Triangle).  Also, the construction of 285 homes on Bermondsey Place Phase 1 is nearly finished. This will include 81 affordable homes, with all three phases delivering 1,453 homes, including 167 affordable homes.  In percentage terms, Phase 1 will have 40% affordable housing.  Phases 2 and 3, 12%, making for 18% affordable housing across the whole site 40%[^3], 
 
 
 ### Viability and Berkeley's case
@@ -97,8 +97,10 @@ Berekely representatives adopted a more conciliatory tone in the Bermondsey Plac
 
 ### Footnotes
 
-[^1]: Para 110 Appeal decision, Ref: APP/A5840/W/25/3366760 Aylesham Centre, Rye Lane, London SE15 5EW, 18th May 2026
-[^2]: Because the Phase 2 and 3 planning application is entirely new and distinct from Phase 1 only the 12% affordable housing amount these phases offered was considered by the committee - see [275372_1 Officer's Report.pdf](https://github.com/user-attachments/files/33281319/275372_1.Officer.s.Report.pdf), para 112
+
+[^1]: Before the Aylesham Centre was refused by the Inspector it was also turned down by Southwark Council  [refused by Southwark](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development
+[^2]: Para 110 Appeal decision, Ref: APP/A5840/W/25/3366760 Aylesham Centre, Rye Lane, London SE15 5EW, 18th May 2026
+[^3]: Because the Phase 2 and 3 planning application is entirely new and distinct from Phase 1 only the 12% affordable housing amount these phases offered was considered by the committee - see [275372_1 Officer's Report.pdf](https://github.com/user-attachments/files/33281319/275372_1.Officer.s.Report.pdf), para 112
 
 
 
