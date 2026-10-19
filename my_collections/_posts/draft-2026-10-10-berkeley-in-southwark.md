@@ -17,11 +17,11 @@ All three applications entailed big reductions in affordable housing, either by 
 
 <img width="681" height="369" alt="Table_affordable_housing_losses_121026" src="https://github.com/user-attachments/assets/eb26129b-95c3-42a4-8b02-fcbe162e8e15" />
 
-So far, Berkeley has only appealed against the Aylesham Centre decision.  This [pre-emptive appeal](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html) was lost. The outcome of a further appeal to the High Court is still awaited.  As yet there is news on whether Berkeley will appeal against the Borough Triangle and Bermondsey Place decisions.
+So far, Berkeley has only appealed against the Aylesham Centre decision.  This [pre-emptive appeal](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html) [^1] was lost and the outcome of a further appeal to the High Court is awaited.  As yet there is news on whether Berkeley will appeal against the Borough Triangle and Bermondsey Place decisions.
 
 ### The three decisions
 
-Affordable housing was a major bone of contention on all three schemes. The Planning Inspector, as decision-maker for the Aylesham, deemed the 12% level of affordable housing satisfactory, but ruled that this did not outweigh the design harms[^1]   On the other hand, Southwark Council, as the decision maker for the Borough Triangle and Bermondsey Place, did not consider the affordable housing satisfactory in either development.   [REFS].
+Affordable housing was a major bone of contention on all three schemes. The Planning Inspector, as decision-maker for the Aylesham, deemed the 12% level of affordable housing satisfactory, but ruled that this did not outweigh the design harms   On the other hand, Southwark Council, as the decision maker for the Borough Triangle and Bermondsey Place, did not consider the affordable housing satisfactory in either development.   [REFS].
 
 The full reasons for refusing the Borough Triangle application have not been published yet, but committee report recommended refusing the application because the 10% affordable housing offer failed to provide enough public benefit to outweigh the heritage harm to Trinity Church Square Conservation Area, because of the size of the two tallest blocks (one 38 storeys, the other 44 storeys).   
 
