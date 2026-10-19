@@ -36,6 +36,7 @@ The conclusions that the schemes were unviable was challenged by objectors and c
 
 <img width="773" height="272" alt="Borough_Triangle_and_Bermondsey_Place_viability_conclusions_131026" src="https://github.com/user-attachments/assets/d92c2ced-a035-4a9f-8920-8fd9ef7071e1" />
 
+
 Objectors and councillors also questioned the higher profit targets proposed by DS2, (20% Gross Development Value (GDV) against the 17.5 % GDV measure used by BPS and the GLA), which raises the viability threshold and diminishes the lillihood of any additional affordable housing, in the event of viability reviews.  They further pointed out that increasing the market housing on the schemes in itself has a detrimental impact on viability, by increasing the length of the development programme (the more market homes there are, the longer it takes to sell them off).  This in turn increases finance costs and whether an 8% finance rate was justified was also questioned, in the case of Borough Triangle.
 
 It was also noted that Berkeley had not taken advantage of the government and Mayor's emergency measures for any of the schemes [LINK], which could have improved viability, by a combination of grant from the Mayor, the proposed relief of Community Infrastructure Levy (CIL) relief, were they willing to commit to 20% affordable housing.  (Berkeley gave a verbal  undertaking at the Bermondsey Place meeting to try to improve the affordable housing beyond 12%, through viability reviews, but this formed no part of the formal offer[REF OR112)
