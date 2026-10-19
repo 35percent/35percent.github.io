@@ -23,7 +23,6 @@ So far, Berkeley has only appealed against the Aylesham Centre decision.  This [
 
 Affordable housing was a major bone of contention on all three schemes. The Planning Inspector, as decision-maker for the Aylesham, deemed the 12% level of affordable housing satisfactory, but ruled that this did not outweigh the design harms[^1] .  On the other hand, Southwark Council, as the decision maker for the Borough Triangle and Bermondsey Place, did not consider the affordable housing satisfactory in either development.   [REFS].
 
-.  The Appeal Inspector, by contrast, was satisfied with the retail provision and 12% affordable housing, after taking into consideration the viability of the scheme. But he agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.  The Inspector emphasises how heavily poor design weighed in the balance of his decision-making by concluding that he would still have rejected the application, even if the development had provided 35% affordable housing[^2].  
 
 The reasons for refusing the Borough Triangle appliction have not been published yet, but the officer report recommended refusing the application because the 10% affordable housing offer failed to provide enough public benefit to outweigh the heritage harm to Trinity Church Square Conservation Area, owing to *'the height, scale and massing'* of the two tallest blocks (one 38 storeys, the other 44 storeys).   
 
@@ -95,11 +94,16 @@ Berekely representatives adopted a more conciliatory tone in the Bermondsey Plac
 
 (and then conveniently forgotten, subverted by 'commercial decisions' that set affordable housing at levels to the developers liking)
 
+~~The Appeal Inspector, by contrast, was satisfied with the retail provision and 12% affordable housing, after taking into consideration the viability of the scheme. But he agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.  The Inspector emphasises how heavily poor design weighed in the balance of his decision-making by concluding that he would still have rejected the application, even if the development had provided 35% affordable housing.~~  
+~~[^2]: Para 110 Appeal decision, Ref: APP/A5840/W/25/3366760 Aylesham Centre, Rye Lane, London SE15 5EW, 18th May 2026~~
+
+
+
 ### Footnotes
 
 
 [^1]: Before the Aylesham Centre was refused by the Inspector it was also turned down by Southwark Council  [refused by Southwark](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development
-[^2]: Para 110 Appeal decision, Ref: APP/A5840/W/25/3366760 Aylesham Centre, Rye Lane, London SE15 5EW, 18th May 2026
+
 [^3]: Because the Phase 2 and 3 planning application is entirely new and distinct from Phase 1 only the 12% affordable housing amount these phases offered was considered by the committee - see [275372_1 Officer's Report.pdf](https://github.com/user-attachments/files/33281319/275372_1.Officer.s.Report.pdf), para 112
 
 
