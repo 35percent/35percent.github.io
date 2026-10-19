@@ -94,12 +94,12 @@ Berekely representatives adopted a more conciliatory tone in the Bermondsey Plac
 
 (and then conveniently forgotten, subverted by 'commercial decisions' that set affordable housing at levels to the developers liking)
 
-[^1]: Para 110 Appeal decision, Ref: APP/A5840/W/25/3366760 Aylesham Centre, Rye Lane, London SE15 5EW, 18th May 2026
-[^2]: Because the Phase 2 and 3 planning application is entirely new and distinct from Phase 1 only the 12% affordable housing amount these phases offered was considered by the committee - see [275372_1 Officer's Report.pdf](https://github.com/user-attachments/files/33281319/275372_1.Officer.s.Report.pdf)
-
-[REF; OR112]
----
-
 ### Footnotes
 
-[^1]: My first footnote
+[^1]: Para 110 Appeal decision, Ref: APP/A5840/W/25/3366760 Aylesham Centre, Rye Lane, London SE15 5EW, 18th May 2026
+[^2]: Because the Phase 2 and 3 planning application is entirely new and distinct from Phase 1 only the 12% affordable housing amount these phases offered was considered by the committee - see [275372_1 Officer's Report.pdf](https://github.com/user-attachments/files/33281319/275372_1.Officer.s.Report.pdf), para 112
+
+
+
+
+
