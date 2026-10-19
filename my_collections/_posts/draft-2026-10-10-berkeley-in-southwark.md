@@ -102,7 +102,7 @@ Berekely representatives adopted a more conciliatory tone in the Bermondsey Plac
 
 
 [^1]: Before the Aylesham Centre was refused by the Inspector it was also turned down by Southwark Council  [refused by Southwark](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development
-[^2]  Borough Triangle has been *'implemented'* under the existing consent, but no housing is being built
+[^2]:  Borough Triangle has been *'implemented'* under the existing consent, but no housing is being built
 [^3]: Because the Phase 2 and 3 planning application is entirely new and distinct from Phase 1 only the 12% affordable housing amount these phases offered was considered by the committee - see [275372_1 Officer's Report.pdf](https://github.com/user-attachments/files/33281319/275372_1.Officer.s.Report.pdf), para 112
 
 
