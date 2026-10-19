@@ -17,7 +17,7 @@ All three applications entailed big reductions in affordable housing, either by 
 
 <img width="681" height="369" alt="Table_affordable_housing_losses_121026" src="https://github.com/user-attachments/assets/eb26129b-95c3-42a4-8b02-fcbe162e8e15" />
 
-So far, Berkeley has only appealed against the Aylesham Centre decision.  This [pre-emptive appeal](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html) [^1] was lost and the outcome of a further appeal to the High Court is awaited.  As yet there is news on whether Berkeley will appeal against the Borough Triangle and Bermondsey Place decisions.
+So far, Berkeley has only appealed against the Aylesham Centre decision.  This [pre-emptive appeal](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html) [^1] was lost and the outcome of a further appeal to the High Court is awaited.  As yet there is no news on whether Berkeley will appeal against the Borough Triangle and Bermondsey Place decisions.
 
 ### The three decisions
 
