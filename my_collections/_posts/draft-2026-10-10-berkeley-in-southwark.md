@@ -21,7 +21,7 @@ So far, Berkeley has only appealed against the Aylesham Centre decision.  This [
 
 ### The three decisions
 
-Affordable housing was a major bone of contention on all three schemes. The Planning Inspector, as decision-maker for the Aylesham, deemed the 12% level of affordable housing satisfactory, but ruled that this did not outweigh the design harms   On the other hand, Southwark Council, as the decision maker for the Borough Triangle and Bermondsey Place, did not consider the affordable housing satisfactory in either development.   [REFS].
+Affordable housing was a major bone of contention on all three schemes. The Planning Inspector, as decision-maker for the Aylesham, deemed the 12% level of affordable housing satisfactory, but ruled that this did not outweigh the design harms.  On the other hand, Southwark Council, as the decision maker for the Borough Triangle and Bermondsey Place, did not consider the affordable housing satisfactory in either development.   [REFS].
 
 The full reasons for refusing the Borough Triangle application have not been published yet, but committee report recommended refusing the application because the 10% affordable housing offer failed to provide enough public benefit to outweigh the heritage harm to Trinity Church Square Conservation Area, because of the size of the two tallest blocks (one 38 storeys, the other 44 storeys).   
 
