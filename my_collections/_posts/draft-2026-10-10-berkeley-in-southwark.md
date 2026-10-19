@@ -94,12 +94,10 @@ Berekely representatives adopted a more conciliatory tone in the Bermondsey Plac
 (and then conveniently forgotten, subverted by 'commercial decisions' that set affordable housing at levels to the developers liking)
 
 ~~The Appeal Inspector, by contrast, was satisfied with the retail provision and 12% affordable housing, after taking into consideration the viability of the scheme. But he agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.  The Inspector emphasises how heavily poor design weighed in the balance of his decision-making by concluding that he would still have rejected the application, even if the development had provided 35% affordable housing.~~  
-~~[^2]: Para 110 Appeal decision, Ref: APP/A5840/W/25/3366760 Aylesham Centre, Rye Lane, London SE15 5EW, 18th May 2026~~
-
+~~: Para 110 Appeal decision, Ref: APP/A5840/W/25/3366760 Aylesham Centre, Rye Lane, London SE15 5EW, 18th May 2026~~
 
 
 ### Footnotes
-
 
 [^1]: Before the Aylesham Centre was refused by the Inspector it was also turned down by Southwark Council  [refused by Southwark](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development
 [^2]:  Borough Triangle has been *'implemented'* under the existing consent, but no housing is being built
