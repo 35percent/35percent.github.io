@@ -21,12 +21,11 @@ So far, Berkeley has only appealed against the Aylesham Centre decision.  This [
 
 ### The three decisions
 
-Affordable housing was a major bone of contention on all three schemes. The Planning Inspector, as decision-maker for the Aylesham, deemed the 12% level of affordable housing satisfactory, but ruled that this did not outweigh the design harms[^1] .  On the other hand, Southwark Council, as the decision maker for the Borough Triangle and Bermondsey Place, did not consider the affordable housing satisfactory in either development.   [REFS].
+Affordable housing was a major bone of contention on all three schemes. The Planning Inspector, as decision-maker for the Aylesham, deemed the 12% level of affordable housing satisfactory, but ruled that this did not outweigh the design harms[^1] On the other hand, Southwark Council, as the decision maker for the Borough Triangle and Bermondsey Place, did not consider the affordable housing satisfactory in either development.   [REFS].
 
+The full reasons for refusing the Borough Triangle application have not been published yet, but committee report recommended refusing the application because the 10% affordable housing offer failed to provide enough public benefit to outweigh the heritage harm to Trinity Church Square Conservation Area, owing to the size of the two tallest blocks, one 38 storeys, the other 44 storeys.   
 
-The reasons for refusing the Borough Triangle appliction have not been published yet, but the officer report recommended refusing the application because the 10% affordable housing offer failed to provide enough public benefit to outweigh the heritage harm to Trinity Church Square Conservation Area, owing to *'the height, scale and massing'* of the two tallest blocks (one 38 storeys, the other 44 storeys).   
-
-The application for Bermondsey Place Phase 2 and 3 came with a recommendation to approve (unlike the Aylesham and Borough Triangle).  Also, the construction of 285 homes on Bermondsey Place Phase 1 is nearly finished. This will include 81 affordable homes, with all three phases delivering 1,453 homes, including 167 affordable homes.  In percentage terms, Phase 1 will have 40% affordable housing.  Phases 2 and 3, 12%, making for 18% affordable housing across the whole site 40%[^3], 
+The committee report for Bermondsey Place Phase 2 and 3 came with a recommendation to approve the application, unlike the Aylesham and Borough Triangle applications.  Also, the construction Bermondsey Place has begun, with of 285 homes on Phase 1 nearly complete. This first phase will include 81 affordable homes, with all three phases delivering 167 affordable homes, and 1,453 homes in total.  In percentage terms, Phase 1 will have 40% affordable housing, Phases 2 and 3, 12%, making for 18% affordable housing across the whole site 40%[^3], 
 
 
 ### Viability and Berkeley's case
