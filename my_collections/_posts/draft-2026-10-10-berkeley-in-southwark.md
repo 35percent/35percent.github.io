@@ -122,6 +122,6 @@ https://www.southwark.gov.uk/news/2026/southwark-prioritise-council-homes-people
 [^5]: Aylesham Centre [Planning Committee report 24/AP/2074](https://moderngov.southwark.gov.uk/documents/s127975/24AP2074%20-The%20Aylesham%20Centre%20Rye%20Lane%20London%20SE15%205EW.pdf) para 112, 15 July 2025
 [^6]: Draft London Plan 2026 HN3 Rationale 3.55
 [^7]: For a selection of a range of opinions see [our blogpost on the Aylesham decision](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html)
-[^8] Southwark Plan 2022 Policy P1 Social rented and Intermediate housing
+[^8]: Southwark Plan 2022 Policy P1 Social rented and Intermediate housing
 
 
