@@ -45,7 +45,7 @@ Objectors and councillors also questioned the higher profit targets proposed by 
 
 Both objectors and councillors also noted that Berkeley had not taken advantage of the [government and Mayor's emergency measures](https://www.gov.uk/government/publications/support-for-housebuilding-in-london-package-of-support) for any of the schemes.  The aim of these is to improved viability on *'stalled'* schemes, by a combination of grant from the Mayor and a proposed relief on the Community Infrastructure Levy (CIL), on condition that developers commit to providing 20% affordable housing. Berkeley gave a verbal  undertaking at the Bermondsey Place meeting to try to improve the affordable housing through viability reviews, but this formed no part of the formal offer[^5].
 
-Building on the many uncertainties of the viability assessment, Southwark Law Centre suggested that a combination of grant, CIL relief and the 17.5% lower profit level could improve viability significantly and possibly be enough to provide 35% affordable housing for Bermondsey Place.
+Building on the many uncertainties of the viability assessment, Southwark Law Centre suggested that a combination of grant, CIL relief, a lower 17.5% lower profit level, plus savings from marketing/sales fees and reduction in finance costs could improve viability significantly and possibly enough for a scheme with 35% affordable housing to be more viable than one with just 12%.
 
 ### Need versus Viability
 
