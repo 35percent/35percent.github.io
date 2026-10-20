@@ -69,19 +69,13 @@ These lost opportunity costs of approving housing developments are also describe
 
 Berkeley has been positively aggrieved by their rejections, calling their Aylesham experience a ['ten year planning nightmare'](https://www.propertyweek.com/news/berkeleys-judicial-review-on-peckham-site-rejected-in-latest-london-planning-blow).  Their supporters are also indignant, with one of their [angrier apologists](https://propviews.co.uk/housing-delivery/another-major-goes-down-as-london-planning-system-feels-intense-strain) roundly disparaging the planning committee and denouncing objectors as *'vested interests'* and *'ideologues'*, who have *'captured'* the planning system. 
 
-This comically unbalanced view  takes no account the breadth of opposition provoked by these schemes, ranging from residents and traders, assorted community groups, councillors, including party leaders, the London Assembly member and the Aylesham's local MP.  That Berkeleys are responsible for their own failures by, first proposing, in all three sites, giant schemes that are going to dominate their local neighbourhoods, and then slashing the affordable housing to the bone on giant schemes that are going to dominate their local neighbourhoods just does not cross Berkeleys or any of their friends' minds; much easier to paint opponents as bad-faith actors, taking advantage of a broken planning system.
+This comically unbalanced view  takes no account the breadth of opposition provoked by one or all of these schemes, ranging from residents and traders, assorted community groups, councillors, including party leaders, the London Assembly member and the Aylesham's local MP.  But rather than consider that Berkeleys are responsible for their own failures by proposing, on no less than three sites, giant schemes that are going to dominate their local neighbourhoods, and then slashing the affordable housing to the bone, it's much easier to paint opponents as bad-faith actors, taking advantage of a broken planning system.
 
 Berkeley does not appear to understand how critical the 35% offer is.  It is acknowledged that even this level of affordable housing will only go someway towards meeting housing need [REF; SPlan P1?] And it is not just a formal policy requirement.  It is the minimum level of affordable housing that the people of the borough, too many suffering from poor and inadequate housing, or having no housing whatsoever, have been repeatedly told, for many years, is the minimum that will be built on private developments.  They have been told this by council officers, policy makers, local councillors and local council candiates.  Reducing affordable housing so drastically, while at the same time increasing free-market housing, when less than 1 in 10 households in the borough can afford free-market housing, undermines confidence in the council, the planning system - and developers. 
 
-Berkeley's cause is not helped by the suspicion that viability assessments do not truly reflect commercial reality, but are used first and foremost to shed affordable housing. These suspicions are reinforced by their wildly different results from ; the viability experts may all agree that a scheme is 'underwater' eg Bermondsey Place, but they are 
-
-it simply deepens well-founded suspicions that the viability method is not to be trusted
+Berkeley's cause is not helped by the suspicion that viability assessments do not truly reflect commercial reality, but are used first and foremost to shed affordable housing. These suspicions are reinforced by their wildly different results from ; the viability experts may all agree that a scheme is 'underwater' eg Bermondsey Place, but they are....it simply deepens well-founded suspicions that the viability method is not to be trusted
 
 Berkeley seems to regard its arguments that the situation was now so much worse that the only solution was to reduce affordable housing as unanswerable and that viability arguments will carry all before them  While the viability of a development invariably determines planning decisions it is acknowledged that the weight to be given to viability is a matter for whoever has to decide the application, be they the local counil or a government inspector [REF NPPF, Aylesham inspector].  It's unsurprising that objectors said that the viability assessments for these schemes should be given little weight, given the 
-
-
-And while the Berkeley representatives at the planning committee were more conciliatory, promising to try to up the percentage by 2% (to 20% across the whole site)    
-
 
 Berkeley's also assert that, far from representing a loss, their meagre affordable housing offers are in fact a great benefit, all the greater when compared to Southwark's 23,000 household waiting list, reasoning that the smaller the affordable housing offer, relative to the size of need, the more valuable it is.  Objectors, by contrast, would be denying those in need, by insisting on higher levels of affordable housing that will never get built.
 
@@ -95,20 +89,11 @@ What these three cases have brought to the fore is the Need verses Viability (pr
 
 As we note above Southwark's advisors agree with Berkeley that all the schemes were unviable, so on the face of it the case for reductions in affordable housing appears to be incontestable.  But as the evidence presented at the Aylesham inquiry by Aylesham Community Action showed [LINK] viability assessments are not straightfoward.  They depend upon many contested assumptions and their conclusions
 
-
-### Bermondsey Place Phase 2 & 3 
-
 Berekely representatives adopted a more conciliatory tone in the Bermondsey Place committee meeting, saying that they would do their best to reach 20% across the whole site
 
 (and then conveniently forgotten, subverted by 'commercial decisions' that set affordable housing at levels to the developers liking)
 
-
-
-~~The sympathetic interpretation also ignores several other factors.  First, it is in a developer's own interests to reduce affordable housing, and so immediately increase profit-bearing market housing; the fact that Berkeley have not reduced it to zero, 'only' 12% and 10%, from 35% is not a cause for much celebration.~~ 
-
-https://www.southwark.gov.uk/news/2026/southwark-prioritise-council-homes-people-most-need
-
-
+----------------------------------------------------------------------------------------------------------------------
 
 ### Footnotes
 
