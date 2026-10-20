@@ -63,8 +63,6 @@ Had Berkeley's applications been approved Southwark would have incurred signific
 
 These lost opportunity costs of approving housing developments are also described in the [draft new London Plan 2026](https://www.london.gov.uk/programmes-strategies/planning/london-plan/next-london-plan/draft-london-plan-consultation/draft-london-plan-consultation-resources/draft-london-plan), which says *'Not only do sites delivering low levels of affordable housing mean that the gap between need and supply continues to grow, it poses significant opportunity costs which will continue to impact in the medium to long term given land scarcity in London'* [^9]. 
 
-While the viability of a development invariably determines planning decisions it is acknowledged that the weight to be given to viability is a matter for whoever has to decide the application, be they the local counil or a government inspector [REF NPPF, Aylesham inspector].  It's unsurprising that objectors said that the viability assessments for these schemes should be given little weight, given the 
-
 <img width="4070" height="929" alt="Image_two_scaffolding_RESIZED_201026" src="https://github.com/user-attachments/assets/453e1263-4430-4cc3-9c58-97b25830939c" />
 
 ### What we say....Berkeley's lament
@@ -79,7 +77,10 @@ Berkeley's cause is not helped by the suspicion that viability assessments do no
 
 it simply deepens well-founded suspicions that the viability method is not to be trusted
 
-Berkeley seems to regard its arguments that the situation was now so much worse that the only solution was to reduce affordable housing as unanswerable.  And while the Berkeley representatives at the planning committee were more conciliatory, promising to try to up the percentage by 2% (to 20% across the whole site)    
+Berkeley seems to regard its arguments that the situation was now so much worse that the only solution was to reduce affordable housing as unanswerable and that viability arguments will carry all before them  While the viability of a development invariably determines planning decisions it is acknowledged that the weight to be given to viability is a matter for whoever has to decide the application, be they the local counil or a government inspector [REF NPPF, Aylesham inspector].  It's unsurprising that objectors said that the viability assessments for these schemes should be given little weight, given the 
+
+
+And while the Berkeley representatives at the planning committee were more conciliatory, promising to try to up the percentage by 2% (to 20% across the whole site)    
 
 
 Berkeley's also assert that, far from representing a loss, their meagre affordable housing offers are in fact a great benefit, all the greater when compared to Southwark's 23,000 household waiting list, reasoning that the smaller the affordable housing offer, relative to the size of need, the more valuable it is.  Objectors, by contrast, would be denying those in need, by insisting on higher levels of affordable housing that will never get built.
