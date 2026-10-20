@@ -45,13 +45,15 @@ Objectors and councillors also questioned the higher profit targets proposed by 
 
 Both objectors and councillors also noted that Berkeley had not taken advantage of the [government and Mayor's emergency measures](https://www.gov.uk/government/publications/support-for-housebuilding-in-london-package-of-support) for any of the schemes.  The aim of these is to improved viability on *'stalled'* schemes, by a combination of grant from the Mayor and a proposed relief on the Community Infrastructure Levy (CIL), on condition that developers commit to providing 20% affordable housing. Berkeley gave a verbal  undertaking at the Bermondsey Place meeting to try to improve the affordable housing through viability reviews, but this formed no part of the formal offer[^5].
 
-Building on the many uncertainties of the viability assessment, Southwark Law Centre suggested that a combination of grant, CIL relief, a lower 17.5% lower profit level, plus savings from marketing/sales fees and reduction in finance costs could improve viability significantly and possibly enough for a scheme with 35% affordable housing to be more viable than one with just 12%.
-
 <img width="607" height="187" alt="Image_Southwark_Plan_2022_Reasons for P1_201026" src="https://github.com/user-attachments/assets/e4772b14-dfdf-4e93-a2ea-4fc12810276d" />
 
 ### Need versus Viability
 
-An obstacle to establishing whether or not greater viability could be achieved on Bermondsey Place was that Berkeley had failed to test 20% or 35% affordable housing scenarios and their test of 12% showed only that this too was unviable.  Berkeley's commitment to delivering 12% therefore had no underpinning; if the committee had approved the application nonetheless, they would have done so on  nothing more than Berkeley's word that it could be done and without positive evidence that it could include any affordable housing. 
+Objectors to Bermondsey Place also noted that Berkeley had not tested the higher levels of affordable housing than the offered 12%, such as 20% (the emergency measures level), or 35% (the minimum policy requirement).  While these levels would have reduced the gross value of the scheme, because there would be less market housing, the levels of grant and CIL relief more affordable housing could attract could compensate for much of this; Southwark Law Centre argued that additional savings from marketing/sales fees, a reduction in finance costs and a lower 17.5% profit rate could, combined, leave the scheme in a better viability position than that proposed, with 12%. 
+
+Berkeley's viability test of 12% affordable housing also only served to prove that this was <unviable>, which meant that their offer to nontheless build a scheme with 12% affordable housing had no underpinning.  Had the committee approved the application on this basis, they would have done so relying on Berkeley's word that the scheme was deliverable and without positive evidence that it would include any affordable housing.
+
+
 
 An alternative view is that Berkeley was generously going 'above and beyond' its obligations and their offer should be accepted on the basis that some affordable housing is better than none, which is all there would be if the application is refused.  This argument shows a touching faith in the generousity/benevolence of developers; a more sceptical view might be that 12% is well within Berkeley's powers and the fact that they are offering it, despite their own viability assessment saying it cannot be done profitably, is another reason not to trust viability assessments
 
@@ -102,6 +104,9 @@ Berekely representatives adopted a more conciliatory tone in the Bermondsey Plac
 
 ~~The Appeal Inspector, by contrast, was satisfied with the retail provision and 12% affordable housing, after taking into consideration the viability of the scheme. But he agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.  The Inspector emphasises how heavily poor design weighed in the balance of his decision-making by concluding that he would still have rejected the application, even if the development had provided 35% affordable housing.~~  
 ~~: Para 110 Appeal decision, Ref: APP/A5840/W/25/3366760 Aylesham Centre, Rye Lane, London SE15 5EW, 18th May 2026~~
+
+https://www.southwark.gov.uk/news/2026/southwark-prioritise-council-homes-people-most-need
+
 
 
 ### Footnotes
