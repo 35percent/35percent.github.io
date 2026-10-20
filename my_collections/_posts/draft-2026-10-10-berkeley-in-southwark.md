@@ -51,7 +51,7 @@ Both objectors and councillors also noted that Berkeley had not taken advantage 
 
 Objectors to Bermondsey Place also noted that Berkeley had not tested the higher levels of affordable housing than the offered 12%, such as 20% (the emergency measures level), or 35% (the minimum policy requirement).  While these levels would have reduced the gross value of the scheme, because there would be less market housing, the levels of grant and CIL relief more affordable housing could attract could compensate for much of this; Southwark Law Centre argued that additional savings from marketing/sales fees, a reduction in finance costs and a lower 17.5% profit rate could, combined, leave the scheme in a better viability position than that proposed, with 12%. 
 
-Berkeley's viability test of 12% affordable housing also only served to prove that this was <unviable>, which meant that their offer to nontheless build a scheme with 12% affordable housing had no underpinning.  Had the committee approved the application on this basis, they would have done so relying on Berkeley's word that the scheme was deliverable and without positive evidence that it would include any affordable housing.
+Berkeley's viability test of 12% affordable housing also only served to prove that this was <ins>unviable</ins>, which meant that their offer to nontheless build a scheme with 12% affordable housing had no underpinning.  Had the committee approved the application on this basis, they would have done so relying on Berkeley's word that the scheme was deliverable and without positive evidence that it would include any affordable housing.
 
 
 
