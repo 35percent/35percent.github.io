@@ -53,7 +53,7 @@ The viability test that Berkeley did conduct, of 12% affordable housing (without
 
 Sympathetic supporters might hold that Berkeley was generously going 'above and beyond' its obligations and their offer should be accepted on the basis that some affordable housing is better than none, which is all there would be if the application is refused.  This argument shows an unwarrented faith in the benevolence of developers; a more sceptical view might be that 12% is well within Berkeley's powers and the fact that they are offering it, despite their own viability assessment saying it cannot be done profitably, is reason to doubt viability assessments
 
-~The sympathetic interpretation also ignores several other factors.  First, it is in a developer's own interests to reduce affordable housing, and so immediately increase profit-bearing market housing; the fact that Berkeley have not reduced it to zero, 'only' 12% and 10%, from 35% is not a cause for much celebration..~  Secondly, though BPS and the GLA agree the the scheme is unviable, the difference in deficits arrived at by the three different assessments, with very large differences in two cases, can only undermine confidence in the whole exercise.  It certainly demonstrates that the conclusions of viability assessments should be treated with caution.
+Secondly, though BPS and the GLA agree the the scheme is unviable, the difference in deficits arrived at by the three bodies different assessments, with very large differences in two cases, can only undermine confidence in the whole exercise.  It certainly demonstrates that the conclusions of viability assessments should be treated with caution.
 
 <img width="607" height="187" alt="Image_Southwark_Plan_2022_Reasons for P1_201026" src="https://github.com/user-attachments/assets/e4772b14-dfdf-4e93-a2ea-4fc12810276d" />
 
@@ -106,6 +106,8 @@ Berekely representatives adopted a more conciliatory tone in the Bermondsey Plac
 
 ~~The Appeal Inspector, by contrast, was satisfied with the retail provision and 12% affordable housing, after taking into consideration the viability of the scheme. But he agreed with Southwark about the heritage harm, describing various parts of the design as *'monolithic and unrelenting'*, *'overly domineering'*, *'harmful'* visually and having an *'unduly forceful presence'*.  The Inspector emphasises how heavily poor design weighed in the balance of his decision-making by concluding that he would still have rejected the application, even if the development had provided 35% affordable housing.~~  
 ~~: Para 110 Appeal decision, Ref: APP/A5840/W/25/3366760 Aylesham Centre, Rye Lane, London SE15 5EW, 18th May 2026~~
+
+~~The sympathetic interpretation also ignores several other factors.  First, it is in a developer's own interests to reduce affordable housing, and so immediately increase profit-bearing market housing; the fact that Berkeley have not reduced it to zero, 'only' 12% and 10%, from 35% is not a cause for much celebration.~~ 
 
 https://www.southwark.gov.uk/news/2026/southwark-prioritise-council-homes-people-most-need
 
