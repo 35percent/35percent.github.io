@@ -64,6 +64,8 @@ Had Berkeley's applications been approved it would also have incurred significan
 
 While the viability of a development invariably determines planning decisions it is acknowledged that the weight to be given to viability is a matter for whoever has to decide the application, be they the local counil or a government inspector [REF NPPF, Aylesham inspector].  It's unsurprising that objectors said that the viability assessments for these schemes should be given little weight, given the 
 
+<img width="4070" height="929" alt="Image_two_scaffolding_RESIZED_201026" src="https://github.com/user-attachments/assets/453e1263-4430-4cc3-9c58-97b25830939c" />
+
 ### What we say....Berkeley's lament
 
 While Berkeley has suffered three rejections it still holds two planning permissions (for the Borough Triangle and Bermondsey Place), but each requires 35% affordable housing. There is also every possibility that it would have secured planning permission for the Aylesham Centre as well, if it had kept to its initial 35% affordable housing offer.
