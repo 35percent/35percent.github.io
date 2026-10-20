@@ -93,7 +93,6 @@ Berekely representatives adopted a more conciliatory tone in the Bermondsey Plac
 
 (and then conveniently forgotten, subverted by 'commercial decisions' that set affordable housing at levels to the developers liking)
 
-----------------------------------------------------------------------------------------------------------------------
 
 ### Footnotes
 
