@@ -17,7 +17,7 @@ All three applications entailed big reductions in affordable housing, either by 
 
 <img width="681" height="369" alt="Table_affordable_housing_losses_121026" src="https://github.com/user-attachments/assets/eb26129b-95c3-42a4-8b02-fcbe162e8e15" />
 
-So far, all three rejections still stand.  Berkeley retain extant (current) permissions for Borough Triangle and Bermondsey Place, but would have to deliver 35% affordable housing on each scheme (40% on Bermondsey Place, if it gets some grant funding), should they proceeded to build them. Berkeley [appealed against the Aylesham Centre decision](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html) [^2], but lost; the outcome of a further appeal to the High Court is awaited.  Berkeley may yet also appeal against the Borough Triangle and Bermondsey Place decisions.
+So far, all three rejections still stand.  Berkeley retain extant (current) permissions for Borough Triangle and Bermondsey Place, but would have to deliver 35% affordable housing on each scheme should they build them (increasing to 40% affordable housing on Bermondsey Place, if it gets some grant funding), . Berkeley [appealed against the Aylesham Centre decision](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html) [^2], but lost; the outcome of a further appeal to the High Court is awaited.  Berkeley may yet also appeal against the Borough Triangle and Bermondsey Place decisions.
 
 ### The three decisions
 
