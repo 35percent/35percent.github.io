@@ -100,9 +100,10 @@ Berekely representatives adopted a more conciliatory tone in the Bermondsey Plac
 [^2]: Berkeley made its appeal to the Secretary of State for Homes, Community and Local Government, on the grounds of non-determination, before the application was decided by Southwark Council.  The planning committee [refused the application](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119) because of the low level of affordable housing, failure to re-provide retail space and because the remaining benefits of the scheme did not outweigh the harm caused to local heritage by the size of the development.
 [^3]:  Borough Triangle has been *'implemented'* under the existing consent, but no housing is being built
 [^4]: Because the Phase 2 and 3 planning application is entirely new and distinct from Phase 1 only the 12% affordable housing amount these phases offered was considered by the committee - see [275372_1 Officer's Report.pdf](https://github.com/user-attachments/files/33281319/275372_1.Officer.s.Report.pdf), para 112
-[^5]: Aylesham Centre [Planning Committee report 24/AP/2074](https://moderngov.southwark.gov.uk/documents/s127975/24AP2074%20-The%20Aylesham%20Centre%20Rye%20Lane%20London%20SE15%205EW.pdf) para 112, 15 July 2025
-[^6]: Draft London Plan 2026 HN3 Rationale 3.55
-[^7]: For a selection of a range of opinions see [our blogpost on the Aylesham decision](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html)
-[^8]: Southwark Plan 2022 Policy P1 Social rented and Intermediate housing.  The figure dates from 2018, but it is unlikely that the affordability of housing in the borough has improved since then.
-[^9]: Draft London Plan 2026 HN3 Rationale 3.55
+[^5]: Tables of viability findings from the Planning Committee A, 6 Oct 2026, Supplemental Agenda para 14 for the [Bermondsey Triangle](https://moderngov.southwark.gov.uk/documents/b50019981/Supplement%201%20Tuesday%2006-Oct-2026%2018.30%20Planning%20Committee%20Major%20Applications%20A.pdf?T=9) and Planning Committee B, 9 Sept 2026, Supplemental Agenda No 2 para 7 [Borough Triangle](https://moderngov.southwark.gov.uk/documents/b50019193/Supplemental%20Agenda%20No.%202%20Wednesday%2009-Sep-2026%2018.30%20Planning%20Committee%20Major%20Applications%20B.pdf?T=9) 
+[^6]: Aylesham Centre [Planning Committee report 24/AP/2074](https://moderngov.southwark.gov.uk/documents/s127975/24AP2074%20-The%20Aylesham%20Centre%20Rye%20Lane%20London%20SE15%205EW.pdf) para 112, 15 July 2025
+[^7]: Draft London Plan 2026 HN3 Rationale 3.55
+[^8]: For a selection of a range of opinions see [our blogpost on the Aylesham decision](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html)
+[^9]: Southwark Plan 2022 Policy P1 Social rented and Intermediate housing.  The figure dates from 2018, but it is unlikely that the affordability of housing in the borough has improved since then.
+[^10]: Draft London Plan 2026 HN3 Rationale 3.55
 
