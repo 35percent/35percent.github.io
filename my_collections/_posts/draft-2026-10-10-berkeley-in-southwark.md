@@ -47,6 +47,8 @@ Both objectors and councillors also noted that Berkeley had not taken advantage 
 
 Building on the many uncertainties of the viability assessment, Southwark Law Centre suggested that a combination of grant, CIL relief, a lower 17.5% lower profit level, plus savings from marketing/sales fees and reduction in finance costs could improve viability significantly and possibly enough for a scheme with 35% affordable housing to be more viable than one with just 12%.
 
+<img width="607" height="187" alt="Image_Southwark_Plan_2022_Reasons for P1_201026" src="https://github.com/user-attachments/assets/e4772b14-dfdf-4e93-a2ea-4fc12810276d" />
+
 ### Need versus Viability
 
 An obstacle to establishing whether or not greater viability could be achieved on Bermondsey Place was that Berkeley had failed to test 20% or 35% affordable housing scenarios and their test of 12% showed only that this too was unviable.  Berkeley's commitment to delivering 12% therefore had no underpinning; if the committee had approved the application nonetheless, they would have done so on  nothing more than Berkeley's word that it could be done and without positive evidence that it could include any affordable housing. 
