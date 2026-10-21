@@ -69,6 +69,8 @@ These lost opportunity costs of approving housing developments are also describe
 
 ### What we say....Berkeley's lament
 
+Berkeley three
+
 Berkeley is aggrieved by their rejections, calling their Aylesham experience a ['ten year planning nightmare'](https://www.propertyweek.com/news/berkeleys-judicial-review-on-peckham-site-rejected-in-latest-london-planning-blow).  Their supporters are also indignant, with one of their [angrier apologists](https://propviews.co.uk/housing-delivery/another-major-goes-down-as-london-planning-system-feels-intense-strain) roundly disparaging the planning committee and denouncing objectors as *'vested interests'* and *'ideologues'*, who have *'captured'* the planning system. 
 
 This comically unbalanced view  takes no account the breadth of opposition provoked by one or all of these schemes, ranging from residents and traders, assorted community groups, councillors, including party leaders, the London Assembly member and the Aylesham's local MP.  But rather than consider that Berkeleys are responsible for their own failures by proposing giant schemes that are going to dominate their local neighbourhoods, and then slashing the affordable housing to the bone, it's much easier to paint opponents as bad-faith actors, taking advantage of a broken planning system.
