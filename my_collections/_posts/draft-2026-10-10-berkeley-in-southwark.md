@@ -77,12 +77,7 @@ Berkeley and their supporters also see this as an example of a 'broken planning'
 
 Any fault lies with Berkeley, for offering to build schemes that were always unviable, first with 35% and 40% affordable housing, then with 12% and 10%.  They seem to have believed that simply demonstrating unviability would leave them free to build an amount of affordable housing that suited them and to have forgotten that the weight to be given to vibility is a matter for the decision-maker [REF Aylesham Inspector].
 
-Berkeley is instead aggrieved, calling their Aylesham experience a ['ten year planning nightmare'](https://www.propertyweek.com/news/berkeleys-judicial-review-on-peckham-site-rejected-in-latest-london-planning-blow) and bemoaning the fact that  
-
-
-
-
-
+Berkeley is instead aggrieved, calling their Aylesham experience a ['ten year planning nightmare'](https://www.propertyweek.com/news/berkeleys-judicial-review-on-peckham-site-rejected-in-latest-london-planning-blow) 
 takes no account the breadth of opposition provoked by one or all of these schemes, ranging from residents and traders, assorted community groups, councillors, including party leaders, the London Assembly member and the Aylesham's local MP.  But rather than consider that Berkeleys are responsible for their own failures by proposing giant schemes that are going to dominate their local neighbourhoods, and then slashing the affordable housing to the bone, it's much easier to paint opponents as bad-faith actors, taking advantage of a broken planning system.
 
 
