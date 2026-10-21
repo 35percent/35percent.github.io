@@ -33,7 +33,7 @@ Inevitably the viability of the respective schemes was a critical issue for the 
 
 The conclusions that the schemes were unviable was challenged by objectors and councillors on several counts.  While the consensus between Berkeley's advisors (DS2), Southwark's advisors (BPS and Quintic) and the GLA (for the Mayor) was that all the schemes were unviable, there was disagreement about the size of the deficits, particularly for those of the Borough Triangle and Bermondsey Place.  
 
-On the Aylesham Centre DS2 found a deficit of £67.35m, while BPS calculated a smaller £41.1m (there is no published figure from the GLA).  On Borough Triangle DS2's deficit was £290.7m, BPS's £79.5m, while the GLA said £131.2m.  On Bermondsey Place DPS said the deficit was £116.84m, Quintic £34.9m, the GLA £3.8m.  As can be seen from these figures the estimates of the deficit varied by £25.95m for the Aylesham Centre and by as much as £211m for Borough Triangle and by as much as £103m for Bermondsey Place[^5]. 
+On the Aylesham Centre DS2 found a deficit of £67.35m, while BPS calculated a smaller £41.4m (there is no published figure from the GLA).  On Borough Triangle DS2's deficit was £290.7m, BPS's £79.5m, while the GLA said £131.2m.  On Bermondsey Place DPS said the deficit was £116.84m, Quintic £34.9m, the GLA £3.8m.  As can be seen from these figures the estimates of the deficit varied by £25.95m for the Aylesham Centre and by as much as £211m for Borough Triangle and by as much as £103m for Bermondsey Place[^5]. 
 
 <img width="773" height="272" alt="Borough_Triangle_and_Bermondsey_Place_viability_conclusions_131026" src="https://github.com/user-attachments/assets/d92c2ced-a035-4a9f-8920-8fd9ef7071e1" />
 
