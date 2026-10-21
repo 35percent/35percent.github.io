@@ -67,7 +67,7 @@ These lost opportunity costs of approving housing developments are also describe
 
 <img width="4070" height="929" alt="Image_two_scaffolding_RESIZED_201026" src="https://github.com/user-attachments/assets/453e1263-4430-4cc3-9c58-97b25830939c" />
 
-### What we say....need comes first
+### What we say....need must come first
 
 While harm to heritage was the reason for the rejection of the Aylesham Centre scheme, in the eyes of Southwark's planning committee all three of Berkeley's schemes foundered on the lack of affordable housing[^11] and for the simple reason that the schemes do not meet Southwark's housing need.  
 
@@ -75,7 +75,7 @@ Berkeley would have it that any affordable housing should be welcomed, if need i
 
 Berkeley and their supporters also see these decisions as examples of a 'broken planning' system [^12] - but in a borough where a large majority of households would qualify for affordable housing, decisions rejecting schemes that do not provide enough are an example of a planning committee that is doing its job, not a symptom of dysfunction.
 
-Any fault lies with Berkeley, for offering to build schemes that were always unviable, first with 35% and 40% affordable housing, then with 12% and 10%.  They seem to have believed that simply demonstrating greater unviability in their revised applications would overcome all other considerations, and to have forgotten that the weight to be given to viability is a matter for the decision-maker [REF Aylesham Inspector].  In these cases Southwark rightly decided that need comes first.   
+Any fault lies with Berkeley, for offering to build schemes that were always unviable, first with 35% and 40% affordable housing, then with 12% and 10%.  They seem to have believed that simply demonstrating greater unviability in their revised applications would overcome all other considerations, and to have forgotten that the weight to be given to viability is a matter for the decision-maker [REF Aylesham Inspector].  The Aylesham Inspector may have been happy with the affordable housing, but Southwark rightly decided that need comes first on all three sites, and they must defend their Borough Triangle and Bermondsey Place decisions robustly, if they are challanged by Berkeley.   
 
 
 ### Footnotes
