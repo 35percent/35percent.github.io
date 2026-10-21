@@ -88,7 +88,7 @@ Finally, Berkeley appears to have believed that simply demonstrating greater unv
 [^6]: Aylesham Centre [Planning Committee report 24/AP/2074](https://moderngov.southwark.gov.uk/documents/s127975/24AP2074%20-The%20Aylesham%20Centre%20Rye%20Lane%20London%20SE15%205EW.pdf) para 112, 15 July 2025
 [^7]: Draft London Plan 2026 HN3 Rationale 3.55.
 [^8]: Bermondsey Place Ohase 2 and 3, 25/AP/2987, Quintic Advisory Addendum, 24 August 2026 Table 2
-[^9]: For a selection of a range of opinions see [our blogpost on the Aylesham decision].(https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html).
+[^9]: For a selection of a range of opinions see [our blogpost on the Aylesham decision](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html).
 [^10]: Southwark Plan 2022 Policy P1 Social rented and Intermediate housing.  The figure dates from 2018, but it is unlikely that the affordability of housing in the borough has improved since then.
 [^11]: Draft London Plan 2026 HN3 Rationale 3.55.
 [^12]: The planning committee for the Aylesham Centre application resolved that *'The proposed development, owing to the low level of affordable housing and the uncertainty regarding the delivery of Community Land Trust homes would fail to deliver sufficient public benefits to outweigh the heritage harm to the character and appearance of the Rye Lane Peckham Conservation Area....'* [Minutes Planning Committee B, Application 24/AP/2074 15 July 2025](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119).
