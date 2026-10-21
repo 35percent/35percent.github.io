@@ -69,7 +69,7 @@ These lost opportunity costs of approving housing developments are also describe
 
 ### What we say....Berkeley's lament
 
-Berkeley three
+While harm to heritage was the reason for the rejection of the Aylesham Centre scheme, all three of Berkeley's schemes foundered on the lack of affordable housing in the eyes of Southwark's planning committee [^11] were re
 
 Berkeley is aggrieved by their rejections, calling their Aylesham experience a ['ten year planning nightmare'](https://www.propertyweek.com/news/berkeleys-judicial-review-on-peckham-site-rejected-in-latest-london-planning-blow).  Their supporters are also indignant, with one of their [angrier apologists](https://propviews.co.uk/housing-delivery/another-major-goes-down-as-london-planning-system-feels-intense-strain) roundly disparaging the planning committee and denouncing objectors as *'vested interests'* and *'ideologues'*, who have *'captured'* the planning system. 
 
@@ -111,4 +111,5 @@ Berekely representatives adopted a more conciliatory tone in the Bermondsey Plac
 [^8]: For a selection of a range of opinions see [our blogpost on the Aylesham decision](https://35percent.org/2026/06/08/aylesham-centre-decision-the-backlash.html)
 [^9]: Southwark Plan 2022 Policy P1 Social rented and Intermediate housing.  The figure dates from 2018, but it is unlikely that the affordability of housing in the borough has improved since then.
 [^10]: Draft London Plan 2026 HN3 Rationale 3.55
+[^11]: The planning committee found for Aylesham Centre  that *'The proposed development, owing to the low level of affordable housing and the uncertainty regarding the delivery of Community Land Trust homes would fail to deliver sufficient public benefits to outweigh the heritage harm to the character and appearance of the Rye Lane Peckham Conservation Area....'* [Minutes Planning Committee B, Application 24/AP/2074 15 July 2025](https://moderngov.southwark.gov.uk/mgAi.aspx?ID=74119).
 
