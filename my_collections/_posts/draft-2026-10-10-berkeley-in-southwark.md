@@ -71,7 +71,7 @@ These lost opportunity costs of approving housing developments are also describe
 
 While harm to heritage was the reason for the rejection of the Aylesham Centre scheme, in the eyes of Southwark's planning committee all three of Berkeley's schemes foundered on the lack of affordable housing[^11] and for the simple reason that the schemes do not meet Southwark's housing need.  
 
-Berkeley would have it otherwise, arguing that any affordable housing should be welcomed, if need is so great, but this ignores the shaky viability justifications for low affordable housing and the lost opportunity cost of giving over large sites almost entirely to market housing that few households in Southwark can afford.
+Berkeley would have it that any affordable housing should be welcomed, if need is so great, but this ignores the shaky viability justifications for low affordable housing and the lost opportunity cost of giving over large sites almost entirely to market housing that few households in Southwark can afford.
 
 Berkeley and their supporters also see this as an example of a 'broken planning'system [^12] - but in a borough where a large majority of households would qualify for affordable housing is not surprising and the Committee an example of the planning committee doing its job.
 
