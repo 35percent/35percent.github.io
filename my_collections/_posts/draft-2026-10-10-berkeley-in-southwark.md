@@ -5,7 +5,7 @@ description: Southwark rejects three Berkeley schemes
 date: 2026-10-10
 ---
 
-### Three Berkeley housing developments rejected
+### Why Berkeley's three housing developments were rejected
 
 xx Oct 2026
 
