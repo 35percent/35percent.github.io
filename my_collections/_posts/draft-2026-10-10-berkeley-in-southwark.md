@@ -67,25 +67,15 @@ These lost opportunity costs of approving housing developments are also describe
 
 <img width="4070" height="929" alt="Image_two_scaffolding_RESIZED_201026" src="https://github.com/user-attachments/assets/453e1263-4430-4cc3-9c58-97b25830939c" />
 
-### What we say....
+### What we say....need comes first
 
 While harm to heritage was the reason for the rejection of the Aylesham Centre scheme, in the eyes of Southwark's planning committee all three of Berkeley's schemes foundered on the lack of affordable housing[^11] and for the simple reason that the schemes do not meet Southwark's housing need.  
 
 Berkeley would have it that any affordable housing should be welcomed, if need is so great, but their argument ignores the suspicion that viability justifications for low affordable housing do not reflect commercial reality, as well as the lost opportunity cost of giving over large sites almost entirely to market housing that few households in Southwark can afford.
 
-Berkeley and their supporters also see these decisions as examples of a 'broken planning' system [^12] - but in a borough where a large majority of households would qualify for affordable housing, decisions rejecting schemes that do not provide enough are an example of a planning committee doing its job, not a symptom of dysfunction.
+Berkeley and their supporters also see these decisions as examples of a 'broken planning' system [^12] - but in a borough where a large majority of households would qualify for affordable housing, decisions rejecting schemes that do not provide enough are an example of a planning committee that is doing its job, not a symptom of dysfunction.
 
-Any fault lies with Berkeley, for offering to build schemes that were always unviable, first with 35% and 40% affordable housing, then with 12% and 10%.  They seem to have believed that simply demonstrating greater unviability in their revised applications would overcome all other considerations, and to have forgotten that the weight to be given to viability is a matter for the decision-maker [REF Aylesham Inspector].  
-
-Berkeley also seems to think that opposition to their proposals can only be motivated by bad-faith, not any genuine concern with a scheme's merits.  This takes no account of the breadth of opposition, ranging from local residents, community groups, councillors, the London Assembly member and the Aylesham's local MP.  Berkeleys should instead consider whether proposing large schemes that are going to dominate local neighbourhoods, while providing them with little real housing opportunities, is the real problem.
-
-
-
-
-['ten year planning nightmare'](https://www.propertyweek.com/news/berkeleys-judicial-review-on-peckham-site-rejected-in-latest-london-planning-blow) 
-
-What these three cases have brought to the fore is the Need verses Viability (profit)
-Berekely representatives adopted a more conciliatory tone in the Bermondsey Place committee meeting, saying that they would do their best to reach 20% across the whole site
+Any fault lies with Berkeley, for offering to build schemes that were always unviable, first with 35% and 40% affordable housing, then with 12% and 10%.  They seem to have believed that simply demonstrating greater unviability in their revised applications would overcome all other considerations, and to have forgotten that the weight to be given to viability is a matter for the decision-maker [REF Aylesham Inspector].  In these cases Southwark rightly decided that need comes first.   
 
 
 ### Footnotes
