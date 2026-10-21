@@ -71,13 +71,17 @@ These lost opportunity costs of approving housing developments are also describe
 
 While harm to heritage was the reason for the rejection of the Aylesham Centre scheme, in the eyes of Southwark's planning committee all three of Berkeley's schemes foundered on the lack of affordable housing[^11] and for the simple reason that the schemes do not meet Southwark's housing need.  
 
-Berkeley would have it that any affordable housing should be welcomed, if need is so great, but this ignores the shaky viability justifications for low affordable housing and the lost opportunity cost of giving over large sites almost entirely to market housing that few households in Southwark can afford.
+Berkeley would have it that any affordable housing should be welcomed, if need is so great, but their argument ignores the shaky viability justifications for low affordable housing and the lost opportunity cost of giving over large sites almost entirely to market housing that few households in Southwark can afford.
 
-Berkeley and their supporters also see this as an example of a 'broken planning'system [^12] - but in a borough where a large majority of households would qualify for affordable housing is not surprising and the Committee an example of the planning committee doing its job.
+Berkeley and their supporters also see this as an example of a 'broken planning' system [^12] - but in a borough where a large majority of households would qualify for affordable housing, decisions rejecting schemes that do not provide enough are an example of a planning committee doing its job.
 
-Berkeley is nonetheless aggrieved by their rejections, calling their Aylesham experience a ['ten year planning nightmare'](https://www.propertyweek.com/news/berkeleys-judicial-review-on-peckham-site-rejected-in-latest-london-planning-blow).  Their supporters are also indignant, with 
+Berkeley is nonetheless aggrieved, calling their Aylesham experience a ['ten year planning nightmare'](https://www.propertyweek.com/news/berkeleys-judicial-review-on-peckham-site-rejected-in-latest-london-planning-blow).  
 
-This comically unbalanced view  takes no account the breadth of opposition provoked by one or all of these schemes, ranging from residents and traders, assorted community groups, councillors, including party leaders, the London Assembly member and the Aylesham's local MP.  But rather than consider that Berkeleys are responsible for their own failures by proposing giant schemes that are going to dominate their local neighbourhoods, and then slashing the affordable housing to the bone, it's much easier to paint opponents as bad-faith actors, taking advantage of a broken planning system.
+
+
+
+
+takes no account the breadth of opposition provoked by one or all of these schemes, ranging from residents and traders, assorted community groups, councillors, including party leaders, the London Assembly member and the Aylesham's local MP.  But rather than consider that Berkeleys are responsible for their own failures by proposing giant schemes that are going to dominate their local neighbourhoods, and then slashing the affordable housing to the bone, it's much easier to paint opponents as bad-faith actors, taking advantage of a broken planning system.
 
 
 It is acknowledged that even this level of affordable housing will only go someway towards meeting housing need [REF; SPlan P1?] And it is not just a formal policy requirement.  It is the minimum level of affordable housing that the people of the borough, have been repeatedly told, for many years, is the minimum that will be built on private developments.  Reducing affordable housing so drastically, while at the same time increasing free-market housing, when less than 1 in 10 households in the borough can afford free-market housing, undermines confidence in the council, the planning system - and developers.
