@@ -71,11 +71,13 @@ These lost opportunity costs of approving housing developments are also describe
 
 While harm to heritage was the reason for the rejection of the Aylesham Centre scheme, in the eyes of Southwark's planning committee all three of Berkeley's schemes foundered on the lack of affordable housing[^11] and for the simple reason that the schemes do not meet Southwark's housing need.  
 
-Berkeley would have it that any affordable housing should be welcomed, if need is so great, but their argument ignores the shaky viability justifications for low affordable housing and the lost opportunity cost of giving over large sites almost entirely to market housing that few households in Southwark can afford.
+Berkeley would have it that any affordable housing should be welcomed, if need is so great, but their argument ignores the suspicion that viability justifications for low affordable housing do not reflect commercial reality, as well as the lost opportunity cost of giving over large sites almost entirely to market housing that few households in Southwark can afford.
 
-Berkeley and their supporters also see this as an example of a 'broken planning' system [^12] - but in a borough where a large majority of households would qualify for affordable housing, decisions rejecting schemes that do not provide enough are an example of a planning committee doing its job.
+Berkeley and their supporters also see this as an example of a 'broken planning' system [^12] - but in a borough where a large majority of households would qualify for affordable housing, decisions rejecting schemes that do not provide enough are an example of a planning committee doing its job, not a symptom of disfunction.
 
-Berkeley is nonetheless aggrieved, calling their Aylesham experience a ['ten year planning nightmare'](https://www.propertyweek.com/news/berkeleys-judicial-review-on-peckham-site-rejected-in-latest-london-planning-blow).  
+Any fault lies with Berkeley, for offering to build schemes that were always unviable, first with 35% and 40% affordable housing, then with 12% and 10%.  They seem to have believed that simply demonstrating unviability would leave them free to build an amount of affordable housing that suited them and to have forgotten that the weight to be given to vibility is a matter for the decision-maker [REF Aylesham Inspector].
+
+Berkeley is instead aggrieved, calling their Aylesham experience a ['ten year planning nightmare'](https://www.propertyweek.com/news/berkeleys-judicial-review-on-peckham-site-rejected-in-latest-london-planning-blow) and bemoaning the fact that  
 
 
 
