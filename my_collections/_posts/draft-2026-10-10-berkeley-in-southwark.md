@@ -27,7 +27,7 @@ The full reasons for refusing the Borough Triangle application have not been pub
 
 In rejecting the three applications, the planning committee went with the recommendation of their planning officers for the Aylesham Centre and Borough Triangle, but against the recommendation, to approve, in the case of Bermondsey Place Phase 2 and 3.  Also unlike the other two schemes, the construction of Bermondsey Place has already properly begun[^3], with of 285 homes on Phase 1 nearly complete. This first phase will include 81 affordable homes, with all three phases delivering 167 affordable homes, out of 1,453 homes in total.  In percentage terms, Phase 1 will have 40% affordable housing, Phases 2 and 3, 12%, making for 18% affordable housing across the whole site 40%[^4], 
 
-### Viability and Berkeley's case
+### Viability deficits
 
 Inevitably the viability of the respective schemes was a critical issue for the three applications.  Berkeley's arguments for all the sites were broadly the same - that economic circumstances, including rising build and finance costs, slow sales and new regulatory requirements had rendered their schemes unviable and unable to support the 35% affordable housing required by the Southwark Plan.  Their no-nonsense conclusion was that all three schemes were so unviable that they could not deliver <ins>any</ins> affordable housing (a conclusion the both Southwark's own viability advisors and the GLA agreed with).  Nonetheless, Berkeley took a *commercial decision* on affordable housing in each case - to deliver 10% on the Borough Triangle and 12% affordable housing on the Aylesham Centre and Bermondsey Place.
 
@@ -37,7 +37,7 @@ On the Aylesham Centre DS2 found a deficit of £67.35m, while BPS calculated a s
 
 <img width="773" height="272" alt="Borough_Triangle_and_Bermondsey_Place_viability_conclusions_131026" src="https://github.com/user-attachments/assets/d92c2ced-a035-4a9f-8920-8fd9ef7071e1" />
 
-### Profit versus Affordable housing
+### Profit and the emergency measure
 
 Objectors and councillors also questioned the higher profit targets proposed by DS2, (20% Gross Development Value (GDV)) against the 17.5 % GDV measure used by BPS and the GLA).  This both raises the viability threshold in the first instance and diminishes the likelihood of any additional affordable housing, in the event of viability reviews. A further concern was that reducing affordable housing, and thereby increasing the market housing, in itself has a detrimental impact on viability.  This is because the greater the  market housing, the longer it takes to sell off, increasing the length of the development programme, which in turn increases finance costs.  The justification for Berekeley's 8% finance rate was also queried, in the cases of the Borough Triangle and Bermondsey Place.
 
@@ -67,19 +67,17 @@ These lost opportunity costs of approving housing developments are also describe
 
 <img width="4070" height="929" alt="Image_two_scaffolding_RESIZED_201026" src="https://github.com/user-attachments/assets/453e1263-4430-4cc3-9c58-97b25830939c" />
 
-### What we say....Berkeley's lament
+### What we say....
 
 While harm to heritage was the reason for the rejection of the Aylesham Centre scheme, in the eyes of Southwark's planning committee all three of Berkeley's schemes foundered on the lack of affordable housing[^11] and for the simple reason that the schemes do not meet Southwark's housing need.  
 
 Berkeley would have it that any affordable housing should be welcomed, if need is so great, but their argument ignores the suspicion that viability justifications for low affordable housing do not reflect commercial reality, as well as the lost opportunity cost of giving over large sites almost entirely to market housing that few households in Southwark can afford.
 
-Berkeley and their supporters also see this as an example of a 'broken planning' system [^12] - but in a borough where a large majority of households would qualify for affordable housing, decisions rejecting schemes that do not provide enough are an example of a planning committee doing its job, not a symptom of disfunction.
+Berkeley and their supporters also see these decisions as examples of a 'broken planning' system [^12] - but in a borough where a large majority of households would qualify for affordable housing, decisions rejecting schemes that do not provide enough are an example of a planning committee doing its job, not a symptom of dysfunction.
 
-Any fault lies with Berkeley, for offering to build schemes that were always unviable, first with 35% and 40% affordable housing, then with 12% and 10%.  They seem to have believed that simply demonstrating unviability would leave them free to build an amount of affordable housing that suited them and to have forgotten that the weight to be given to vibility is a matter for the decision-maker [REF Aylesham Inspector].
+Any fault lies with Berkeley, for offering to build schemes that were always unviable, first with 35% and 40% affordable housing, then with 12% and 10%.  They seem to have believed that simply demonstrating greater unviability in their revised applications would overcome all other considerations and leave them free to build an amount of affordable housing that suited them and to have forgotten that the weight to be given to viability is a matter for the decision-maker [REF Aylesham Inspector].
 
-Berkeley is instead aggrieved, calling their Aylesham experience a ['ten year planning nightmare'](https://www.propertyweek.com/news/berkeleys-judicial-review-on-peckham-site-rejected-in-latest-london-planning-blow) 
-takes no account the breadth of opposition provoked by one or all of these schemes, ranging from residents and traders, assorted community groups, councillors, including party leaders, the London Assembly member and the Aylesham's local MP.  But rather than consider that Berkeleys are responsible for their own failures by proposing giant schemes that are going to dominate their local neighbourhoods, and then slashing the affordable housing to the bone, it's much easier to paint opponents as bad-faith actors, taking advantage of a broken planning system.
-
+Berkeley also seems to think that opposition to their proposals can only be motivated by bad-faith, not any genuine concern with a scheme's merits.  This takes no account of the breadth of that opposition, which ranges through residents and traders, assorted community groups, councillors, local party leaders, the London Assembly member and the Aylesham's local MP.  Berkeleys are responsible for their own failures by proposing giant schemes that are going to dominate their local neighbourhoods, and then slashing the affordable housing to the bone, it's much easier to paint opponents as bad-faith actors, taking advantage of a broken planning system.  instead aggrieved, calling their Aylesham experience a ['ten year planning nightmare'](https://www.propertyweek.com/news/berkeleys-judicial-review-on-peckham-site-rejected-in-latest-london-planning-blow) 
 
 It is acknowledged that even this level of affordable housing will only go someway towards meeting housing need [REF; SPlan P1?] And it is not just a formal policy requirement.  It is the minimum level of affordable housing that the people of the borough, have been repeatedly told, for many years, is the minimum that will be built on private developments.  Reducing affordable housing so drastically, while at the same time increasing free-market housing, when less than 1 in 10 households in the borough can afford free-market housing, undermines confidence in the council, the planning system - and developers.
 
@@ -94,9 +92,6 @@ What is really happening here is that viability assessments are used to shed aff
 
 
 What these three cases have brought to the fore is the Need verses Viability (profit)
-
-
-
 Berekely representatives adopted a more conciliatory tone in the Bermondsey Place committee meeting, saying that they would do their best to reach 20% across the whole site
 
 
