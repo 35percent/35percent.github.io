@@ -7,7 +7,7 @@ date: 2026-10-10
 
 ### Why Berkeley's three housing developments were rejected
 
-xx Oct 2026
+23 Oct 2026
 
 <img width="931" height="183" alt="Aylesham_Centre_Borough_Triangle_Bermondsey_Place_composite_121026" src="https://github.com/user-attachments/assets/8bc70a4c-93f4-40cb-a622-1cd3096f3954" />
 
