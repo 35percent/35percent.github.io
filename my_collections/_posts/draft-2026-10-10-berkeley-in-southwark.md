@@ -97,15 +97,12 @@ Berkeley seems to regard its arguments that the situation was now so much worse 
 Berkeley wants to dictate terms; that is its response to the crisis in house building - to push all the costs it lists on to the shoulders of teh local community, in the shape of reduced affordable housing. for It is the also developer who finally decides what gets built; not authorities (nor even local authorities).  And the justification for low levels of affordable housing can be built depends upon viability assessments that have widely varying conclusions.  Berkeley would argue that this does not matter - that it makes no difference if the deficit is £3m or a £100m, the scheme is unviable in both instances.  But this ignores the credibility problem of a method that     
 What is really happening here is that viability assessments are used to shed affordable housing, but then discarded, Their justification for not building a scheme because 
 
-insinuate that it is the objectors who are denying the homeless and those on the housing waiting listsit  that it is they 
 
 What these three cases have brought to the fore is the Need verses Viability (profit)
 
-As we note above Southwark's advisors agree with Berkeley that all the schemes were unviable, so on the face of it the case for reductions in affordable housing appears to be incontestable.  But as the evidence presented at the Aylesham inquiry by Aylesham Community Action showed [LINK] viability assessments are not straightfoward.  They depend upon many contested assumptions and their conclusions
+
 
 Berekely representatives adopted a more conciliatory tone in the Bermondsey Place committee meeting, saying that they would do their best to reach 20% across the whole site
-
-(and then conveniently forgotten, subverted by 'commercial decisions' that set affordable housing at levels to the developers liking)
 
 
 ### Footnotes
