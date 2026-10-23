@@ -27,7 +27,7 @@ The full reasons for refusing the Borough Triangle application have not been pub
 
 In rejecting the three applications, the planning committee went with the recommendation of their planning officers for the Aylesham Centre and Borough Triangle, but against the recommendation (to approve) in the case of Bermondsey Place Phase 2 and 3.  Also unlike the other two schemes, the construction of Bermondsey Place has already begun[^3], with 285 homes on Phase 1 nearly complete. This first phase will include 86 affordable homes, with all three phases delivering 167 affordable homes, out of 1,345 homes in total.  In percentage terms, Phase 1 will have 40% affordable housing, Phases 2 and 3, 12%, making for 18% affordable housing across the whole site[^4]. 
 
-### Viability deficits
+### Disagreement about viability deficits
 
 Inevitably the viability of the respective schemes was a critical issue for the three applications.  Berkeley's arguments for all the sites were broadly the same - that economic circumstances, including rising build and finance costs, slow sales and new regulatory requirements had rendered their schemes unviable and unable to support the 35% affordable housing required by the Southwark Plan.  Their no-nonsense conclusion was that all three schemes were so unviable that they could not deliver <ins>any</ins> affordable housing (a conclusion that both Southwark's own viability advisors and the GLA agreed with).  Nonetheless, Berkeley took a *commercial decision* on affordable housing in each case - to deliver 10% on the Borough Triangle and 12% affordable housing on the Aylesham Centre and 12% on Bermondsey Place.
 
