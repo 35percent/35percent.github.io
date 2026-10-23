@@ -37,7 +37,7 @@ On the Aylesham Centre DS2 found a deficit of £67.35m, while BPS calculated a s
 
 <img width="773" height="272" alt="Borough_Triangle_and_Bermondsey_Place_viability_conclusions_131026" src="https://github.com/user-attachments/assets/d92c2ced-a035-4a9f-8920-8fd9ef7071e1" />
 
-### Profit and the emergency measure
+### Profit and the emergency measures
 
 Objectors and councillors also questioned the higher profit targets for market housing used by DS2 - 20% Gross Development Value (GDV)) against the 17.5 % GDV measure used by the GLA.  This increases the overall viability threshold (and increases it further as the proportion of market housing increases) and raises the bar for any surplus profit to fund additional affordable housing, in the event of viability reviews. A further concern was the detrimental impact on viability of reducing affordable housing, thus increasing market housing, which takes longer to sell off, thereby increasing the length of the development programme, which in turn increases finance costs.  The justification for Berkeley's 8% finance rate was also queried, in the cases of the Borough Triangle and Bermondsey Place.
 
