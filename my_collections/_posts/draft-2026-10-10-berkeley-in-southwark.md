@@ -1,5 +1,8 @@
-  ---
-
+---
+title: Mayor calls-in rejected Berkeley housing developments 
+layout: post
+date: 2026-06-08
+image: <img width="931" height="183" alt="Aylesham_Centre_Borough_Triangle_Bermondsey_Place_composite_121026" src="https://github.com/user-attachments/assets/8bc70a4c-93f4-40cb-a622-1cd3096f3954" />
 ---
 
 # Mayor calls-in rejected Berkeley housing developments 
