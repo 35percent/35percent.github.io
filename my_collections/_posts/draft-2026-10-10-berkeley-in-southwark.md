@@ -29,6 +29,8 @@ Affordable housing was a major bone of contention on all three schemes. The Plan
 
 The Borough Triangle application was [refused for three reasons](https://moderngov.southwark.gov.uk/documents/s136290/Minutes%20Planning%20Committee%20Major%20Applications%20B%209%20September%202026.pdf)- that the low level of affordable housing failed to provide enough public benefit to outweigh the harm caused to Trinity Church Square Conservation Area, that it failed to meet Southwark's significant need for social rented and intermediate housing and that it also failed to provide enough benefit to outweigh the harm to the amenity of nearby residents, in particular daylight and sunlight impacts.
 
+The Bermondsey Place application was [refused](https://moderngov.southwark.gov.uk/documents/g8432/Printed%20minutes%20Tuesday%2006-Oct-2026%2018.30%20Planning%20Committee%20Major%20Applications%20A.pdf?T=1) because of the low level of affordable housing failing to meet the significant need for social rent and intermediate homes in the borough
+
 In rejecting the three applications, the planning committee went with the recommendation of their planning officers for the Aylesham Centre and Borough Triangle, but against the recommendation (to approve) in the case of Bermondsey Place Phase 2 and 3.  Also unlike the other two schemes, the construction of Bermondsey Place has already begun[^3], with 285 homes on Phase 1 nearly complete. This first phase will include 86 affordable homes, with all three phases delivering 167 affordable homes, out of 1,345 homes in total.  In percentage terms, Phase 1 will have 40% affordable housing, while Phases 2 and 3, will have 12%, making for 18% affordable housing across the whole site[^4]. 
 
 ### Disagreement about viability deficits
