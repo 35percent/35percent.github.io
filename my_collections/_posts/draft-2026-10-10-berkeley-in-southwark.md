@@ -81,7 +81,11 @@ Berkeley would have it that <ins>any</ins> affordable housing should be welcomed
 
 Berkeley and others also see these decisions as examples of a broken planning system[^14] - but in a borough where a large majority of households would qualify for affordable housing, decisions rejecting schemes that do not provide enough affordable housing are an example of a planning committee that is doing its job, not a symptom of dysfunction.
 
-Finally, developers list several causes of their current viability problems, but never much more than one solution - cut affordable housing. And they want deeper cuts than the Mayor's 35% to 20% reduction, for a 'fast-track' planning approval.  This reduction was a mistake in the first place, and if developers are allowed to go even further, Southwark will see very little new affordable housing over the next decade and beyond. Southwark's planning committee has the power to weigh up viability assessments[^15], taking account of other factors including need.  Their decisions to reject the Berkeley's applications were the right ones and now the [Aylesham Centre application has been settled](https://www.architectsjournal.co.uk/news/drmm-led-peckham-schemes-bid-for-judicial-review-fails) in Southwark's favour they must prepare to defend their Borough Triangle and Bermondsey Place decisions before the Mayor just as robustly.    
+Berkeley, like other developers, list several causes of their current viability problems, but never much more than one solution - cut affordable housing. And they want deeper cuts than the Mayor's 35% to 20% reduction, for a 'fast-track' planning approval.  This reduction was a mistake in the first place, and if developers are allowed to go even further, Southwark will see very little new affordable housing over the next decade and beyond. 
+
+Finally, while viability assessments were a key issue for all three applications, it is for Southwark's planning committee, as the decision-maker, to weigh them up, in the planning balance[^15], taking account of other factors including need. 
+
+Southwark's decisions to reject the Berkeley's applications were the right ones and now the [Aylesham Centre application has been settled](https://www.architectsjournal.co.uk/news/drmm-led-peckham-schemes-bid-for-judicial-review-fails) in Southwark's favour they must prepare to defend their Borough Triangle and Bermondsey Place decisions before the Mayor just as robustly.    
 
 
 ### Footnotes
