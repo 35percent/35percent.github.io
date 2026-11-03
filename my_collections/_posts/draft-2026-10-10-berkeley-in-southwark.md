@@ -59,8 +59,6 @@ The viability test that Berkeley did conduct, on 12% affordable housing (without
 
 Some[^9] might hold that Berkeley was going 'above and beyond' the viability limits of the scheme and their offer should be accepted on the basis that any affordable housing is better than none, which is all there would be if the application was refused.  But a more sceptical view would be that the mere fact that Berkeley is offering 12% shows that they think it is achievable despite being 'unviable' and that viability assessments are not the final word when it comes to setting affordable housing levels.
 
-But this argument places too much faith in the generosity of developers; a more sceptical view might be that 12% is well within Berkeley's powers and the fact that they are offering it, despite their own viability assessment saying it cannot be done profitably, tells us that viability assessments
-
 Secondly, though Quintic and the GLA agree with DS2 that the scheme is unviable, the difference in deficits arrived at by the three bodies' different assessments (very large differences for Borough Triangle and Bermondsey Place) can only undermine confidence in the whole exercise.  This also demonstrates that the conclusions of viability assessments should be treated with caution.
 
 <img width="607" height="187" alt="Image_Southwark_Plan_2022_Reasons for P1_201026" src="https://github.com/user-attachments/assets/e4772b14-dfdf-4e93-a2ea-4fc12810276d" />
