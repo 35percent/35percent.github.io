@@ -5,12 +5,6 @@ date: 2026-06-08
 image: <img width="931" height="183" alt="Aylesham_Centre_Borough_Triangle_Bermondsey_Place_composite_121026" src="https://github.com/user-attachments/assets/8bc70a4c-93f4-40cb-a622-1cd3096f3954" />
 ---
 
-# Mayor calls-in rejected Berkeley housing developments 
-
-3 Nov 2026
-
-<img width="931" height="183" alt="Aylesham_Centre_Borough_Triangle_Bermondsey_Place_composite_121026" src="https://github.com/user-attachments/assets/8bc70a4c-93f4-40cb-a622-1cd3096f3954" />
-
 London Mayor, Sadiq Khan, has used his planning powers to 'call-in' planning applications for the [Borough Triangle](https://www.london.gov.uk/programmes-strategies/planning/planning-applications-and-decisions/public-hearings/borough-triangle-public-hearing) and [Bermondsey Place](https://planapps.london.gov.uk/planningapps/25-AP-2987) developments, after both were recently rejected by Southwark Council for having too little affordable housing. They are both Berkeley Group schemes and the Mayor will now make his own decision on whether to approve or refuse the applications, after separate hearings for each.  Berkeley, Southwark Council and objectors will all be invited to attend, once the hearing dates are set. 
 
 When Southwark Council's planning committee unanimously rejected Berkeley's proposals for the development of Bermondsey Place Phases 2 and 3 at the [beginning of October](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=649&MId=8432&Ver=4), it was the third large Berkeley scheme to fail to gain planning approval, following the Borough Triangle, at the [beginning of September](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=650&MId=8449&Ver=4) and the Aylesham Centre, [in July 2025](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=650&MId=8174&Ver=4).
