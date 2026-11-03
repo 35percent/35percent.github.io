@@ -1,8 +1,5 @@
   ---
-layout: post
-title: Berkeley Homes
-description: Southwark rejects three Berkeley schemes
-date: 2026-10-10
+
 ---
 
 # Mayor calls-in rejected Berkeley housing developments 
