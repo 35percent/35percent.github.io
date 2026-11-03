@@ -23,7 +23,7 @@ All three applications entailed big reductions in affordable housing, either by 
 
 <img width="681" height="369" alt="Table_affordable_housing_losses_121026" src="https://github.com/user-attachments/assets/eb26129b-95c3-42a4-8b02-fcbe162e8e15" />
 
-### Affordable housing
+### Affordable housing in the balance
 
 Affordable housing was a major bone of contention on all three schemes. The Planning Inspector, as decision-maker for the Aylesham, deemed the 12% level of affordable housing satisfactory, but [ruled that this did not outweigh](https://gat04-live-1517c8a4486c41609369c68f30c8-aa81074.divio-media.org/filer_public/03/70/0370039b-2c8d-40c2-be40-4654361c7a8b/appeal_decision_3366760_180526.pdf) the design harms.  On the other hand, Southwark Council, as the decision maker for the [Borough Triangle](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=650&MId=8449&Ver=4) and [Bermondsey Place](https://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=649&MId=8432&Ver=4), did not consider the affordable housing satisfactory in either development.   
 
