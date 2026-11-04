@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How the Canada Water decision was made
-description: Mayor puts viability above affordablility
 date: 2026-07-03
 ---
 

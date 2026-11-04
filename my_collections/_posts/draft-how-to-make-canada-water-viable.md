@@ -1,6 +1,5 @@
 ---
 title: How to make Canada Water viable
-description: Result of viability assessment shows how huge development can be profitable
 date: 2026-07-03
 layout: post
 ---
