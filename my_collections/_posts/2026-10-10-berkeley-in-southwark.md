@@ -66,8 +66,6 @@ The affordable housing requirement has been set to help meet the needs of the 93
 
 These lost opportunity costs of approving housing developments are described in the [draft new London Plan 2026](https://www.london.gov.uk/programmes-strategies/planning/london-plan/next-london-plan/draft-london-plan-consultation/draft-london-plan-consultation-resources/draft-london-plan), which says *'Not only do sites delivering low levels of affordable housing mean that the gap between need and supply continues to grow, it poses significant opportunity costs which will continue to impact in the medium to long term given land scarcity in London'*[^12].
 
-<img width="4070" height="929" alt="Image_two_scaffolding_RESIZED_201026" src="https://github.com/user-attachments/assets/ba04c0b0-9816-4d12-acdb-ec539de53223" />
-
 ### What we say....the greater need must come first
 
 While harm to heritage was the reason for the rejection of the Aylesham Centre scheme, in the eyes of Southwark's planning committee all three of Berkeley's schemes foundered on the lack of affordable housing[^13] and for the simple reason that the schemes do not meet Southwark's housing need.  
